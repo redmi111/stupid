@@ -19,9 +19,28 @@
             "name":"People",
             "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+        },
+        {
+            "name":"Nature",
+            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
+            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
         }
     ],
     "Wallpapers":[
+         {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+            "collections":"",
+            "downloadable":true
+        },
+         {
+            "name":"Leaf",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/leaf_frost_frosty_118960_1440x2560.jpg",
+            "collections":"featured,landscapes,Nature",
+            "downloadable":true
+        },
         {
             "name":"ShotA",
             "author":"Someone",
