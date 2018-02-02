@@ -41,6 +41,13 @@
     }
   ],
   "Wallpapers": [
+    {
+            "name":"ShotA",
+            "author":"Someone",
+            "url":"https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+            "collections":"featured,landscapes,people",
+            "downloadable":false
+        },
      {  
    "name":"Nithis",
    "url":"http://wallpaperscraft.com/image/water_glare_blur_119344_1440x2560.jpg",
