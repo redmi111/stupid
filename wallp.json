@@ -156,23 +156,23 @@
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Tree",
             "author":"Nithis",
-            "url":"",
+            "url":"http://wallpaperscraft.com/image/trees_road_winter_snow_119006_1440x2560.jpg",
             "collections":"",
             "downloadable":true
         },
         {
             "name":"Wall",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/wall_brick_surface_texture_118993/1440x2560.jpg",
+            "url":"http://wallpaperscraft.com/image/wall_brick_surface_texture_118993_1440x2560.jpg",
             "collections":"Texture, Landscapes",
             "downloadable":true
         },
         {
             "name":"Mountain",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/waterfall_current_stones_118991/1440x2560.jpg",
+            "url":"http://wallpaperscraft.com/image/waterfall_current_stones_118991_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/waterfall_current_stones_118991_168x300.jpg",
             "collections":"Landscapes, Mountain",
             "downloadable":true
@@ -180,7 +180,7 @@
         {
             "name":"Autumn",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/foliage_autumn_dry_118990/1440x2560.jpg",
+            "url":"http://wallpaperscraft.com/image/foliage_autumn_dry_118990_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/foliage_autumn_dry_118990_168x300.jpg",
             "collections":"nature, leaf",
             "downloadable":true
@@ -188,7 +188,7 @@
         {
             "name":"Flower",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/flower_red_bud_petals_119003/1440x2560.jpg",
+            "url":"http://wallpaperscraft.com/image/flower_red_bud_petals_119003_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/flower_red_bud_petals_119003_168x300.jpg",
             "collections":"featured, flowers",
             "downloadable":true
@@ -196,7 +196,7 @@
         {
             "name":"United States",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/charlotte_united_states_night_city_119002/1440x2560.jpg",
+            "url":"http://wallpaperscraft.com/image/charlotte_united_states_night_city_119002_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/charlotte_united_states_night_city_119002_168x300.jpg",
             "collections":"City, Night, Lights",
             "downloadable":true
@@ -205,14 +205,14 @@
             "name":"Mountain",
             "author":"Nithis",
             "thumbnail":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_168x300.jpg",
-            "url":"http://i2.wallpaperscraft.com/download/bengal_fire_hand_glitter_118977/1440x2560.jpg",
+            "url":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_1440x2560.jpg",
             "collections":"Landscape, mountain",
             "downloadable":true
         },
         {
             "name":"Green Sky",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/radiance_sky_night_118994/1440x2560.jpg",
+            "url":"http://wallpaperscraft.com/image/radiance_sky_night_118994_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/radiance_sky_night_118994_168x300.jpg",
             "collections":"Nature, featured, night",
             "downloadable":true
@@ -220,7 +220,7 @@
         {
             "name":"Sky",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/starry_sky_shine_glitter_118976/1440x2560.jpg",
+            "url":"http://wallpaperscraft.com/image/starry_sky_shine_glitter_118976_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/starry_sky_shine_glitter_118976_168x300.jpg",
             "collections":"sky",
             "downloadable":true
@@ -228,8 +228,8 @@
         {
             "name":"Spark",
             "author":"Nithis",
-            "url":"http://wallpaperscraft.com/download/bengal_fire_hand_glitter_118977/1440x2560.jpg",
-            "thumbnail":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977/1440x2560",
+            "url":"http://wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_168x300.jpg",
             "collections":"featured, fantasy",
             "downloadable":true
         },
