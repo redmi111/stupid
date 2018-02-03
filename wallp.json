@@ -27,139 +27,237 @@
         }
     ],
     "Wallpapers":[
-         {
+          {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+          {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+             "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+               "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+               "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       
+           {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+               "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+       {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+           "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"",
             "author":"Nithis",
             "url":"",
-            "collections":"",
+            "thumbnail":"",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Man Scenery",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/sea_man_freedom_loneliness_mountains_114116_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/sea_man_freedom_loneliness_mountains_114116_168x300.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Milky Way",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/northern_lights_milky_way_starry_sky_aurora_denmark_114691_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/northern_lights_milky_way_starry_sky_aurora_denmark_114691_168x300.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Night Sky",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/starry_sky_man_lantern_night_115032_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_man_lantern_night_115032_168x300.jpg",
+            "collections":"nature,featured, space",
+            "downloadable":true
+        },
+        {
+            "name":"Park Green",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/bench_park_foliage_trees_115227_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/bench_park_foliage_trees_115227_168x300.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Coast",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/cape_coast_cliff_sea_115300_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/cape_coast_cliff_sea_115300_168x300.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Water",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/ocean_shore_water_precipice_115460_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/ocean_shore_water_precipice_115460_168x300.jpg",
+            "collections":"nature,featured",
             "downloadable":true
         },
         
-        {
-            "name":"",
-            "author":"Nithis",
-            "url":"",
-            "collections":"",
-            "downloadable":true
-        },
         
         {
-            "name":"",
+            "name":"Road",
             "author":"Nithis",
-            "url":"",
-            "collections":"",
-            "downloadable":true
-        },
-        {
-            "name":"",
-            "author":"Nithis",
-            "url":"",
-            "collections":"",
-            "downloadable":true
-        },
-        {
-            "name":"",
-            "author":"Nithis",
-            "url":"",
-            "collections":"",
-            "downloadable":true
-        },
-        {
-            "name":"",
-            "author":"Nithis",
-            "url":"",
-            "collections":"",
-            "downloadable":true
-        },
-        {
-            "name":"",
-            "author":"Nithis",
-            "url":"",
-            "collections":"",
-            "downloadable":true
-        },
-        {
-            "name":"",
-            "author":"Nithis",
-            "url":"",
-            "collections":"",
-            "downloadable":true
-        },
-        {
-            "name":"",
-            "author":"Nithis",
-            "url":"",
-            "collections":"",
+            "url":"http://wallpaperscraft.com/image/road_marking_turn_trees_115266_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/road_marking_turn_trees_115266_168x300.jpg",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
             "name":"Tree",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/trees_road_winter_snow_119006_1440x2560.jpg",
-            "collections":"",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
