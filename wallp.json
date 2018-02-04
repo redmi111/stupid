@@ -54,8 +54,8 @@
         {
             "name":"Branches",
             "author":"Nithis",
-            "url":"http://i1.wallpaperscraft.com/image/branches_garland_spruce_118627_1440x2560",
-            "thumbnail":"http://i1.wallpaperscraft.com/image/branches_garland_spruce_118627_540x960",
+            "url":"http://i1.wallpaperscraft.com/image/branches_garland_spruce_118627_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/branches_garland_spruce_118627_540x960.jpg",
             "collections":"",
             "downloadable":true
         },
@@ -2777,7 +2777,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/starry_sky_man_lantern_night_115032_1440x2560.jpg",
             "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_man_lantern_night_115032_168x300.jpg",
-            "collections":"nature,featured, space",
+            "collections":"featured,space",
             "downloadable":true
         },
         {
@@ -2889,7 +2889,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_168x300.jpg",
-            "collections":"featured,fantasy",
+            "collections":"featured,lights",
             "downloadable":true
         },
         {
@@ -2930,16 +2930,16 @@
             "collections":"landscapes,city"
         },
         {
-            "name":"Wallsplash 1",
+            "name":"1",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
             "dimensions":"3200x2560",
             "copyright":"Free (do whatever you want)",
-            "collections":"featured,landscapes,people,city"
+            "collections":"landscapes,city"
         },
         {
-            "name":"Wallsplash 2",
+            "name":"2",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
@@ -2948,7 +2948,7 @@
             "collections":"featured,landscapes,people,food"
         },
         {
-            "name":"Wallsplash 3",
+            "name":"3",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_c.png",
@@ -2957,7 +2957,7 @@
             "collections":"featured,food,people"
         },
         {
-            "name":"Wallsplash 4",
+            "name":"4",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
@@ -2966,7 +2966,7 @@
             "collections":"landscapes,people,city"
         },
         {
-            "name":"Wallsplash 5",
+            "name":"5",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
             "thumbnail":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
