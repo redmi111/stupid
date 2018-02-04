@@ -611,7 +611,7 @@
             "name":"Wall",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/wall_brick_surface_texture_118993_1440x2560.jpg",
-            "collections":"Texture, Landscapes",
+            "collections":"texture",
             "downloadable":true
         },
         {
@@ -619,7 +619,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/waterfall_current_stones_118991_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/waterfall_current_stones_118991_168x300.jpg",
-            "collections":"Landscapes, Mountain",
+            "collections":"landscapes",
             "downloadable":true
         },
         {
@@ -627,7 +627,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/foliage_autumn_dry_118990_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/foliage_autumn_dry_118990_168x300.jpg",
-            "collections":"nature, leaf",
+            "collections":"nature",
             "downloadable":true
         },
         {
@@ -635,7 +635,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/flower_red_bud_petals_119003_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/flower_red_bud_petals_119003_168x300.jpg",
-            "collections":"featured, flowers",
+            "collections":"featured,flowers",
             "downloadable":true
         },
         {
@@ -643,7 +643,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/charlotte_united_states_night_city_119002_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/charlotte_united_states_night_city_119002_168x300.jpg",
-            "collections":"City, Night, Lights",
+            "collections":"city",
             "downloadable":true
         },
         {
@@ -651,7 +651,7 @@
             "author":"Nithis",
             "thumbnail":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_168x300.jpg",
             "url":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_1440x2560.jpg",
-            "collections":"Landscape, mountain",
+            "collections":"landscapes",
             "downloadable":true
         },
         {
@@ -659,7 +659,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/radiance_sky_night_118994_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/radiance_sky_night_118994_168x300.jpg",
-            "collections":"Nature, featured, night",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
@@ -667,7 +667,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/starry_sky_shine_glitter_118976_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/starry_sky_shine_glitter_118976_168x300.jpg",
-            "collections":"sky",
+            "collections":"landscapes",
             "downloadable":true
         },
         {
@@ -675,14 +675,14 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_1440x2560.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/bengal_fire_hand_glitter_118977_168x300.jpg",
-            "collections":"featured, fantasy",
+            "collections":"featured,fantasy",
             "downloadable":true
         },
         {
             "name":"Window",
             "author":"Nithis",
             "url":"",
-            "collections":"Landscape, featured, building",
+            "collections":"buildings,featured",
             "downloadable":true
         },
          {
