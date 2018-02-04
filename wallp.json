@@ -48,15 +48,168 @@
             "name":"",
             "author":"Nithis",
             "url":"",
-            "thumbnail":"",
+            "thumbnail":"_540x960.jpg",
             "collections":"",
             "downloadable":true
         },
         {
+            "name":"Music",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/musical_instrument_music_percussion_guitar_106370_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/musical_instrument_music_percussion_guitar_106370_540x960.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Colors",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/assassins_creed_apple_of_eden_pieces_of_eden_signs_100054_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/assassins_creed_apple_of_eden_pieces_of_eden_signs_100054_540x960.jpg",
+            "collections":"",
+            "downloadable":true
+        },
+        {
+            "name":"Tiger",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/tiger_grin_photoshop_fire_119275_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/tiger_grin_photoshop_fire_119275_540x960.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"City",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/san_francisco_usa_bridge_skyscrapers_beach_118777_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/san_francisco_usa_bridge_skyscrapers_beach_118777_540x960.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Women",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/northmen_northmen_a_viking_saga_viking_saga_charlie_murphy_97732_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/northmen_northmen_a_viking_saga_viking_saga_charlie_murphy_97732_540x960.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Tea",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/cup_tea_tea_party_99994_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/cup_tea_tea_party_99994_540x960.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Vocaloid",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/vocaloid_hatsune_miku_headphones_wire_water_100137_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/vocaloid_hatsune_miku_headphones_wire_water_100137_540x960.jpg",
+            "collections":"anime",
+            "downloadable":true
+        },
+        {
+            "name":"Stars",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/starry_sky_universe_galaxy_118232_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_universe_galaxy_118232_540x960.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"resident evil",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/resident_evil_umbrella_corporation_88974_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/resident_evil_umbrella_corporation_88974_540x960.jpg",
+            "collections":"anime",
+            "downloadable":true
+        },
+        {
+            "name":"Cat",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/cat_face_furry_striped_97082_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/cat_face_furry_striped_97082_540x960.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Sea",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/pier_dock_sea_dusk_shore_118549_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/pier_dock_sea_dusk_shore_118549_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Nissan",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/nissan_350z_yellow_side_view_109589_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/nissan_350z_yellow_side_view_109589_540x960.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"galaxy",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/galaxy_night_starry_sky_mountains_118126_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/galaxy_night_starry_sky_mountains_118126_540x960.jpg",
+            "collections":"",
+            "downloadable":true
+        },
+        {
+            "name":"Meserati",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/maserati_granturismo_mc_red_side_view_94280_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/maserati_granturismo_mc_red_side_view_94280_540x960.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Singapore",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/singapore_skyscrapers_buildings_shore_night_118845_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Evening",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/man_shore_evening_sea_119265_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/man_shore_evening_sea_119265_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Clouds",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/sky_clouds_sunset_horizon_119264_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/sky_clouds_sunset_horizon_119264_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Moon",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/moon_full_moon_planet_119263_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/moon_full_moon_planet_119263_540x960.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"Train",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/train_railway_snow_forest_119261_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/silhouette_starry_sky_man_night_119259_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        
+        {
             "name":"Shines",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/starry_sky_shine_glitter_119257_1440x2560.jpg",
-            "thumbnail":"",
+            "thumbnail":"http://wallpaperscraft.com/image/starry_sky_shine_glitter_119257_540x960.jpg",
             "collections":"space",
             "downloadable":true
         },
@@ -64,7 +217,7 @@
             "name":"sea mountains",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/mountains_sea_sky_sunset_shore_moon_119256_1440x2560.jpg",
-            "thumbnail":"",
+            "thumbnail":"http://wallpaperscraft.com/image/mountains_sea_sky_sunset_shore_moon_119256_540x960.jpg",
             "collections":"landscapes",
             "downloadable":true
         },
@@ -72,7 +225,7 @@
             "name":"Railway",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/railway_winter_snow_119255_1440x2560.jpg",
-            "thumbnail":"",
+            "thumbnail":"http://wallpaperscraft.com/image/railway_winter_snow_119255_540x960.jpg",
             "collections":"nature",
             "downloadable":true
         },
@@ -80,7 +233,7 @@
             "name":"Neon",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/inscription_neon_backlight_wall_119254_1440x2560.jpg",
-            "thumbnail":"",
+            "thumbnail":"http://wallpaperscraft.com/image/inscription_neon_backlight_wall_119254_540x960.jpg",
             "collections":"lights",
             "downloadable":true
         },
@@ -88,7 +241,7 @@
             "name":"Sky",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/sky_sunset_city_119253_1440x2560.jpg",
-            "thumbnail":"",
+            "thumbnail":"http://wallpaperscraft.com/image/sky_sunset_city_119253_540x960.jpg",
             "collections":"city",
             "downloadable":true
         },
@@ -96,7 +249,7 @@
             "name":"Rose",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/rose_flower_close_up_petals_119252_1440x2560.jpg",
-            "thumbnail":"",
+            "thumbnail":"http://wallpaperscraft.com/image/rose_flower_close_up_petals_119252_540x960.jpg",
             "collections":"flowers",
             "downloadable":true
         },
