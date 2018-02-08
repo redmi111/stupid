@@ -44,99 +44,323 @@
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Blur",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i1.wallpaperscraft.com/image/mesh_blur_background_119289_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/mesh_blur_background_119289_540x960.jpg",
+            "collections":"landscapes",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Sea",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i1.wallpaperscraft.com/image/sea_surf_foam_rocks_119290_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/sea_surf_foam_rocks_119290_540x960.jpg",
+            "collections":"landscapes",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Airplane",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i1.wallpaperscraft.com/image/porthole_airplane_city_window_119291_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/porthole_airplane_city_window_119291_540x960.jpg",
+            "collections":"city",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Lamp",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i1.wallpaperscraft.com/image/lamp_lighting_drops_dark_background_119297_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/lamp_lighting_drops_dark_background_119297_540x960.jpg",
+            "collections":"others",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Plants",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i0.wallpaperscraft.com/image/plants_grass_surface_119298_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/plants_grass_surface_119298_540x960.jpg",
+            "collections":"nature",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Headlight",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i2.wallpaperscraft.com/image/headlight_auto_rear_bumper_119280_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/headlight_auto_rear_bumper_119280_540x960.jpg",
+            "collections":"cars",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"New York",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i2.wallpaperscraft.com/image/new_york_usa_night_city_panorama_skyscrapers_119270_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/new_york_usa_night_city_panorama_skyscrapers_119270_540x960.jpg",
+            "collections":"city",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Kiss",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i1.wallpaperscraft.com/image/couple_silhouettes_kiss_hugs_119269_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/couple_silhouettes_kiss_hugs_119269_540x960.jpg",
+            "collections":"people",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Feb 14",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i2.wallpaperscraft.com/image/rabbit_valentines_day_postcard_119285_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/rabbit_valentines_day_postcard_119285_540x960.jpg",
+            "collections":"others",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"squirrel fence animal",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i0.wallpaperscraft.com/image/squirrel_animal_fence_stand_119296_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/squirrel_animal_fence_stand_119296_540x960.jpg",
+            "collections":"animals",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Trolley",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i0.wallpaperscraft.com/image/trolley_stop_city_evening_lighting_119292_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/trolley_stop_city_evening_lighting_119292_540x960.jpg",
+            "collections":"city",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Neon",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i0.wallpaperscraft.com/image/neon_smile_art_lines_119268_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/neon_smile_art_lines_119268_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+         {
+            "name":"Rose",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/roses_bouquet_red_dark_background_119245_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/roses_bouquet_red_dark_background_119245_540x960.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Night Tree",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/tree_night_sky_stars_119240_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/tree_night_sky_stars_119240_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Yosemite",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/yosemite_valley_mountains_night_stars_119242_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/yosemite_valley_mountains_night_stars_119242_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Neon",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/inscription_letters_light_backlight_119243_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/inscription_letters_light_backlight_119243_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Building",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/buildings_architecture_bottom_view_119251_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/buildings_architecture_bottom_view_119251_540x960.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Orange",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/orange_citrus_cut_ripe_119217_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/orange_citrus_cut_ripe_119217_540x960.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"Horizon",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/horizon_water_dawn_119218_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/horizon_water_dawn_119218_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Key",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/key_daisies_inscription_dream_119219_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/key_daisies_inscription_dream_119219_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Night Trees",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/night_sky_trees_starry_sky_119225_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/night_sky_trees_starry_sky_119225_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Trees",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/starry_sky_night_trees_mountains_119228_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_night_trees_mountains_119228_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Lock",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/lock_fence_lattice_119229_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/lock_fence_lattice_119229_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Heart",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/heart_sparks_shape_shine_119231_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/heart_sparks_shape_shine_119231_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Autria",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/leogang_austria_mountains_trees_119233_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/leogang_austria_mountains_trees_119233_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Measuring device",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/measuring_instrument_instrument_cover_119235_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/measuring_instrument_instrument_cover_119235_540x960.jpg",
+            "collections":"tech",
+            "downloadable":true
+        },
+         {
+            "name":"Grapes",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/grapes_berries_bunch_vine_119202_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/grapes_berries_bunch_vine_119202_540x960.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"Inscription",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/inscription_neon_text_letters_119208_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/inscription_neon_text_letters_119208_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Singapore",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/singapore_skyscrapers_panorama_119207_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/singapore_skyscrapers_panorama_119207_540x960.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Beijing",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/beijing_skyscrapers_night_city_top_view_119221_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/beijing_skyscrapers_night_city_top_view_119221_540x960.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Flowers",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/wreath_flowers_leaves_composition_119224_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/wreath_flowers_leaves_composition_119224_540x960.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Maple",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/maple_leaves_autumn_dry_wet_119176_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/maple_leaves_autumn_dry_wet_119176_540x960.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Waterfall",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/waterfall_stream_night_man_119179_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/waterfall_stream_night_man_119179_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Road Bridge",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/bridge_road_mountains_sea_119186_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/bridge_road_mountains_sea_119186_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Mountains Lake",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/pier_mountains_lake_shore_119190_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/pier_mountains_lake_shore_119190_540x960.jpg",
+            "collections":"landscaspe",
+            "downloadable":true
+        },
+        {
+            "name":"Green Leaves",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/leaves_bush_green_119191_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/leaves_bush_green_119191_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"road turn",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/road_turn_stones_119192_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/road_turn_stones_119192_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Mountains",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/mountains_clouds_cloudy_sky_119193_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/mountains_clouds_cloudy_sky_119193_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"leaves",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/maple_leaves_autumn_dry_wet_119176_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/maple_leaves_autumn_dry_wet_119176_540x960.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Paint",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/graffiti_paint_art_119174_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/graffiti_paint_art_119174_540x960.jpg",
+            "collections":"texture",
             "downloadable":true
         },
         {
@@ -144,7 +368,7 @@
             "author":"Nithis",
             "url":"http://i2.wallpaperscraft.com/image/oranges_citrus_fruits_ripe_box_119339_2160x3840.jpg",
             "thumbnail":"http://i2.wallpaperscraft.com/image/oranges_citrus_fruits_ripe_box_119339_540x960.jpg",
-            "collections":"food",
+            "collections":"fruits",
             "downloadable":true
         },
         {
