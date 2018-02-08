@@ -30,25 +30,113 @@
           {
             "name":"",
             "author":"Nithis",
-            "url":"",
-            "thumbnail":"",
-            "collections":"nature,featured",
-            "downloadable":true
-        },
-        {
-            "name":"",
-            "author":"Nithis",
             "url":"_1440x2560",
             "thumbnail":"_540x960",
             "collections":"",
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Winter",
             "author":"Nithis",
-            "url":"_1440x2560",
-            "thumbnail":"_540x960",
-            "collections":"",
+            "url":"http://i0.wallpaperscraft.com/image/winter_forest_trail_snow_trees_119472_1440x2560",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/winter_forest_trail_snow_trees_119472_540x960",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Galaxy",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/starry_sky_galaxy_universe_sky_night_118591_1440x2560",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/starry_sky_galaxy_universe_sky_night_118591_540x960",
+            "collections":"space",
+            "downloadable":true
+        },
+         {
+            "name":"Bugatti",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/bugatti_vision_gran_turismo_blue_side_view_111304_1440x2560",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/bugatti_vision_gran_turismo_blue_side_view_111304_540x960",
+            "collections":"cars",
+            "downloadable":true
+        },
+         {
+            "name":"Night City",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/night_city_top_view_buildings_railway_118814_1440x2560",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/night_city_top_view_buildings_railway_118814_540x960",
+            "collections":"city",
+            "downloadable":true
+        },
+         {
+            "name":"Stars",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/stars_space_sky_glitter_116409_1440x2560",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/stars_space_sky_glitter_116409_540x960",
+            "collections":"space",
+            "downloadable":true
+        },
+         {
+            "name":"The City",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/architecture_city_view_from_above_buildings_river_118446_1440x2560",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/architecture_city_view_from_above_buildings_river_118446_540x960",
+            "collections":"city",
+            "downloadable":true
+        },
+         {
+            "name":"Winter",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/mountains_winter_snow_118389_1440x2560",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/mountains_winter_snow_118389_540x960",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+         {
+            "name":"Sports",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/auto_side_view_sports_car_red_118923_1440x2560",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/auto_side_view_sports_car_red_118923_540x960",
+            "collections":"cars",
+            "downloadable":true
+        },
+         {
+            "name":"Mask",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/gas_mask_man_smoke_colorful_119216_1440x2560",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/gas_mask_man_smoke_colorful_119216_540x960",
+            "collections":"people",
+            "downloadable":true
+        },
+         {
+            "name":"Roof",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/feet_roof_height_118878_1440x2560",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/feet_roof_height_118878_540x960",
+            "collections":"people",
+            "downloadable":true
+        },
+         {
+            "name":"Tom",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/tom_clancy_s_rainbow_six_siege_ubisoft_montreal_ubisoft_entertainment_104024_1440x2560",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/tom_clancy_s_rainbow_six_siege_ubisoft_montreal_ubisoft_entertainment_104024_540x960",
+            "collections":"people",
+            "downloadable":true
+        },
+         {
+            "name":"Starry Sky",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/starry_sky_milky_way_stars_night_118495_1440x2560",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_milky_way_stars_night_118495_540x960",
+            "collections":"space",
+            "downloadable":true
+        },
+         {
+            "name":"Wolf Anime",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/wolf_starry_sky_silhouette_art_117253_1440x2560",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/wolf_starry_sky_silhouette_art_117253_540x960",
+            "collections":"fantacy",
             "downloadable":true
         },
         {
