@@ -30,9 +30,17 @@
           {
             "name":"",
             "author":"Nithis",
-            "url":"_1440x2560",
-            "thumbnail":"_540x960",
+            "url":"_1440x2560.jpg",
+            "thumbnail":"_540x960.jpg",
             "collections":"",
+            "downloadable":true
+        },
+        {
+            "name":"food",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/seafood_shrimp_crabs_food_76709_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/seafood_shrimp_crabs_food_76709_540x960.jpg",
+            "collections":"food",
             "downloadable":true
         },
         {
