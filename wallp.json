@@ -36,11 +36,59 @@
             "downloadable":true
         },
         {
-            "name":"",
+            "name":"Road",
             "author":"Nithis",
-            "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
-            "collections":"",
+            "url":"http://i2.wallpaperscraft.com/image/road_starry_sky_light_turn_119322_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/road_starry_sky_light_turn_119322_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Eclipse",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/eclipse_full_moon_moon_sun_sky_119341_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/eclipse_full_moon_moon_sun_sky_119341_540x960.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"Heart",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/heart_art_sparks_119337_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/heart_art_sparks_119337_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Speedometer",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/speedometer_arrow_speed_119305_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/speedometer_arrow_speed_119305_540x960.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"New York",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/new_york_usa_city_top_view_119306_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/new_york_usa_city_top_view_119306_540x960.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Winter Mountains",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/mountains_winter_snow_trees_119309_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/mountains_winter_snow_trees_119309_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Rose",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/wild_rose_rose_flower_petals_leaves_119321_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/wild_rose_rose_flower_petals_leaves_119321_540x960.jpg",
+            "collections":"flowers",
             "downloadable":true
         },
         {
