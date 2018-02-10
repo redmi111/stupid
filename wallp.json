@@ -36,6 +36,102 @@
             "downloadable":true
         },
         {
+            "name":"Road Turn",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/road_turn_light_night_119379_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/road_turn_light_night_119379_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Raccoon",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/raccoon_leaves_disguise_119370_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/raccoon_leaves_disguise_119370_540x960.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Bull",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/chicago_bulls_nba_basketball_94215_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/chicago_bulls_nba_basketball_94215_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Girl",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/girl_cap_blonde_back_118263_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/girl_cap_blonde_back_118263_540x960.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Spices",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/spices_seasonings_red_pepper_black_pepper_pepper_star_anise_onion_ginger_garlic_walnuts_bay_leaf_78738_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/spices_seasonings_red_pepper_black_pepper_pepper_star_anise_onion_ginger_garlic_walnuts_bay_leaf_78738_540x960.jpg",
+            "collections":"food",
+            "downloadable":true
+        },
+        {
+            "name":"Morning",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/breakfast_scrambled_eggs_coffee_heart_bread_ketchup_96543_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/breakfast_scrambled_eggs_coffee_heart_bread_ketchup_96543_540x960.jpg",
+            "collections":"food",
+            "downloadable":true
+        },
+        {
+            "name":"Glass Drops",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/glass_drops_surface_119360_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/glass_drops_surface_119360_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Cup",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/mug_inscription_logo_119349_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/mug_inscription_logo_119349_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Hong Kong",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/hong_kong_china_skyscrapers_night_city_city_lights_119347_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/hong_kong_china_skyscrapers_night_city_city_lights_119347_540x960.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Underground",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/railroad_underground_man_line_light_119354_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/railroad_underground_man_line_light_119354_540x960.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Iceland",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/iceland_road_marking_turn_ocean_shore_119336_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/iceland_road_marking_turn_ocean_shore_119336_540x960.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Sneakers",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/feet_sneakers_tiles_119345_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/feet_sneakers_tiles_119345_540x960.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
             "name":"Road",
             "author":"Nithis",
             "url":"http://i2.wallpaperscraft.com/image/road_starry_sky_light_turn_119322_1440x2560.jpg",
