@@ -31,15 +31,55 @@
             "name":"",
             "author":"Nithis",
             "url":"_1440x2560.jpg",
-            "thumbnail":"_540x960.jpg",
+            "thumbnail":"_480x800.jpg",
             "collections":"",
+            "downloadable":true
+        },
+         {
+            "name":"Mountains",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/mountains_san_vigilio_italy_119137_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/mountains_san_vigilio_italy_119137_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+         {
+            "name":"Trees Top View",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/trees_top_view_forest_119142_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/trees_top_view_forest_119142_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+         {
+            "name":"Bicycle",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/bicycle_street_city_evening_119147_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/bicycle_street_city_evening_119147_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+         {
+            "name":"Flames",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/bonfire_fire_flame_119153_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/bonfire_fire_flame_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+         {
+            "name":"Mic",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/microphone_electroacoustics_device_119171_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/microphone_electroacoustics_device_119171_480x800.jpg",
+            "collections":"tech",
             "downloadable":true
         },
         {
             "name":"Road Plant",
             "author":"Nithis",
             "url":"http://i0.wallpaperscraft.com/image/road_view_from_above_trees_marking_auto_movement_119576_1440x2560.jpg",
-            "thumbnail":"http://i0.wallpaperscraft.com/image/road_view_from_above_trees_marking_auto_movement_119576_540x960.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/road_view_from_above_trees_marking_auto_movement_119576_480x800.jpg",
             "collections":"landscapes",
             "downloadable":true
         },
