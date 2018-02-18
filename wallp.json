@@ -35,6 +35,86 @@
             "collections":"",
             "downloadable":true
         },
+        {
+            "name":"Girl with Backpack",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/girl_backpack_dress_flower_119617_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/girl_backpack_dress_flower_119617_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"White Rose",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/rose_white_drops_dew_blur_119614_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/rose_white_drops_dew_blur_119614_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Flower Red",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/flower_red_petals_stem_119625_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/flower_red_petals_stem_119625_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Lion",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/lion_king_of_beasts_muzzle_119626_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/lion_king_of_beasts_muzzle_119626_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Dark Headlight",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/auto_headlight_dark_background_119621_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/auto_headlight_dark_background_119621_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Inscription Dark",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/inscription_dark_background_light_119597_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/inscription_dark_background_light_119597_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Amsterdam",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/amsterdam_netherlands_building_shore_119631_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/amsterdam_netherlands_building_shore_119631_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Trees",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/road_trees_shadow_119606_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/road_trees_shadow_119606_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Motivation",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/inscription_motivation_dark_background_texture_119598_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/inscription_motivation_dark_background_texture_119598_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Sports Car",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/auto_front_view_sports_car_119628_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/auto_front_view_sports_car_119628_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
          {
             "name":"Mountains",
             "author":"Nithis",
