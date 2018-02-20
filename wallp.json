@@ -36,6 +36,93 @@
             "downloadable":true
         },
         {
+            "name":"SUV",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/car_suv_front_view_grass_119113_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/car_suv_front_view_grass_119113_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Umberla",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/umbrella_red_girl_rain_119161_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/umbrella_red_girl_rain_119161_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Sneakers",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/sneakers_legs_red_mountains_119647_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/sneakers_legs_red_mountains_119647_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },{
+            "name":"Wood Surface",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/bark_wood_surface_119640_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/bark_wood_surface_119640_480x800.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"Singapore",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/singapore_building_night_city_119649_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/singapore_building_night_city_119649_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"River",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/tree_river_fence_reflection_evening_119641_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/tree_river_fence_reflection_evening_119641_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Sunset And Trees",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/trees_sunset_sky_branches_119643_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/trees_sunset_sky_branches_119643_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Pink Texture",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/texture_surface_pink_lines_vertical_119644_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/texture_surface_pink_lines_vertical_119644_480x800.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"Red Rose",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/rose_red_flower_bud_119651_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/rose_red_flower_bud_119651_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Stones and Rocks",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/rock_stones_texture_surface_119650_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/rock_stones_texture_surface_119650_480x800.jpg",
+            "collections":";landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Cat",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/cat_muzzle_cunning_look_119646_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/cat_muzzle_cunning_look_119646_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
             "name":"Bicycle",
             "author":"Nithis",
             "url":"http://i2.wallpaperscraft.com/image/bicycle_door_yellow_119620_1440x2560.jpg",
