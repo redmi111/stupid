@@ -36,6 +36,78 @@
             "downloadable":true
         },
         {
+            "name":"Sports Car",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/sports_car_side_view_blue_119728_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/sports_car_side_view_blue_119728_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Rose",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/rose_bud_bush_petals_119709_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/rose_bud_bush_petals_119709_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Inspiration",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/inscription_motivation_text_dream_119707_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/inscription_motivation_text_dream_119707_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Stars And Trees",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/starry_sky_trees_clouds_night_119677_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/starry_sky_trees_clouds_night_119677_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Man",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/man_silhouette_sun_sunset_119708_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/man_silhouette_sun_sunset_119708_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Lamp",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/lamp_light_rainbow_119688_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/lamp_light_rainbow_119688_480x800.jpg",
+            "collections":"others,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Smoke",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/smoke_shroud_coil_dark_background_119692_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/smoke_shroud_coil_dark_background_119692_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Tree",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/tree_hill_sunset_horizon_119668_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/tree_hill_sunset_horizon_119668_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Bridge",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/bridge_pond_sunset_clouds_119670_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/bridge_pond_sunset_clouds_119670_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
             "name":"Stones",
             "author":"Nithis",
             "url":"http://i1.wallpaperscraft.com/image/starry_sky_space_stones_shore_119653_1440x2560.jpg",
