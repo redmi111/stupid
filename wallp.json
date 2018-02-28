@@ -36,6 +36,134 @@
             "downloadable":true
         },
         {
+            "name":"inscription",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/inscription_text_motivation_black_background_119760_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/inscription_text_motivation_black_background_119760_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Mushroom",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/moss_mushroom_bark_surface_119764_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/moss_mushroom_bark_surface_119764_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+           {
+            "name":"Globe Map",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/globe_stand_map_119759_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/globe_stand_map_119759_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Germany",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/wierschem_germany_castle_trail_evening_sky_119771_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/wierschem_germany_castle_trail_evening_sky_119771_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Lights And glare",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/glare_circles_light_golden_119775_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/glare_circles_light_golden_119775_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Kangaroo",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/kangaroo_silhouette_sky_evening_hill_119756_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/kangaroo_silhouette_sky_evening_hill_119756_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+           {
+            "name":"Lights in Glass",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/bank_garland_light_glare_119753_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/bank_garland_light_glare_119753_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Trees and Starry Sky",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/starry_sky_stars_trees_view_from_below_night_119730_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/starry_sky_stars_trees_view_from_below_night_119730_480x800.jpg",
+            "collections":"space,nature",
+            "downloadable":true
+        },
+        {
+            "name":"Car Front View",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/auto_front_view_motion_blur_119752_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/auto_front_view_motion_blur_119752_480x800.jpg",
+            "collections":"cars,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Sign Board",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/signboard_text_words_letters_inscription_119751_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/signboard_text_words_letters_inscription_119751_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+           {
+            "name":"City",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/buildings_city_building_top_view_119746_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/buildings_city_building_top_view_119746_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"City Skycrapers",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/city_skyscrapers_shore_evening_119745_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/city_skyscrapers_shore_evening_119745_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Wall Bricks",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/wall_brick_texture_119744_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/wall_brick_texture_119744_480x800.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"Leaves Of Coconut tree",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/leaf_carved_plant_green_119735_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/leaf_carved_plant_green_119735_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+           {
+            "name":"Sunset",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/sunset_sea_horizon_waves_119742_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/sunset_sea_horizon_waves_119742_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Trees On winter",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/winter_firs_snow_mountains_evening_119750_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/winter_firs_snow_mountains_evening_119750_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
             "name":"Canada Night",
             "author":"Nithis",
             "url":"http://i0.wallpaperscraft.com/image/edmonton_canada_night_city_top_view_118462_1440x2560.jpg",
