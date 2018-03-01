@@ -36,6 +36,126 @@
             "downloadable":true
         },
         {
+            "name":"Mountain",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/mountains_fog_flowers_clouds_118454_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/mountains_fog_flowers_clouds_118454_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Taiwan",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/taipei_taiwan_skyscrapers_evening_119779_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/taipei_taiwan_skyscrapers_evening_119779_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Lamp",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/lamp_electricity_light_black_background_119772_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/lamp_electricity_light_black_background_119772_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Taxi",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/taxi_inscription_glare_light_119767_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/taxi_inscription_glare_light_119767_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Legs And Dumbbels",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/legs_dumbbell_sport_bodybuilding_119768_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/legs_dumbbell_sport_bodybuilding_119768_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Sunset Sea",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/sea_horizon_sunset_clouds_119769_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/sea_horizon_sunset_clouds_119769_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Car's Headlight",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/auto_headlight_night_motion_blur_119778_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/auto_headlight_night_motion_blur_119778_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Dog and Grass",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/dog_lying_grass_furry_119777_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/dog_lying_grass_furry_119777_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Sunset Lake",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/sunset_lake_skyline_sky_119780_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/sunset_lake_skyline_sky_119780_480x800.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Waves",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/sea_waves_splashes_dark_119783_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/sea_waves_splashes_dark_119783_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Road Marking",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/road_marking_mountains_asphalt_direction_119782_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/road_marking_mountains_asphalt_direction_119782_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"USA Night",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/williamsburg_usa_night_city_bridge_119788_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/williamsburg_usa_night_city_bridge_119788_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Sports Car",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/auto_sports_car_red_front_view_119791_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/auto_sports_car_red_front_view_119791_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Eclipse",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/eclipse_moon_light_rays_118476_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/eclipse_moon_light_rays_118476_480x800.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"Parking",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/auto_parking_buildings_bridge_118478_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/auto_parking_buildings_bridge_118478_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
             "name":"inscription",
             "author":"Nithis",
             "url":"http://i0.wallpaperscraft.com/image/inscription_text_motivation_black_background_119760_1440x2560.jpg",
