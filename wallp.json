@@ -36,6 +36,110 @@
             "downloadable":true
         },
         {
+            "name":"Tiger",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/tiger_predator_muzzle_lies_118375_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/tiger_predator_muzzle_lies_118375_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+         {
+            "name":"Sea, Sail",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/sea_sail_horizon_118378_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/sea_sail_horizon_118378_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Mountains And Winter",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/mountains_winter_snow_118389_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/mountains_winter_snow_118389_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Stones",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/stones_sea_surface_118391_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/stones_sea_surface_118391_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Label Nature",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/label_mark_nature_118402_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/label_mark_nature_118402_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+         {
+            "name":"Dreamcatcher",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/dreamcatcher_amulet_weave_blur_119795_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/dreamcatcher_amulet_weave_blur_119795_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Bridge",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/bridge_mountains_cars_evening_119794_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/bridge_mountains_cars_evening_119794_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Sports Car",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/auto_front_view_red_sport_car_119800_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/auto_front_view_red_sport_car_119800_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Starry Sky and Mountain",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/starry_sky_mountains_night_119799_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_mountains_night_119799_480x800.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"Stars And Mountains",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/starry_sky_mountains_milky_way_119796_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_mountains_milky_way_119796_480x800.jpg",
+            "collections":"space,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Night City",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/night_city_panorama_sea_shore_119801_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/night_city_panorama_sea_shore_119801_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+         {
+            "name":"Airplane Wing",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/airplane_sky_wing_119802_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/airplane_sky_wing_119802_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"wild rose",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/wild_rose_rose_bush_petals_119803_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/wild_rose_rose_bush_petals_119803_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
             "name":"Mountain",
             "author":"Nithis",
             "url":"http://i0.wallpaperscraft.com/image/mountains_fog_flowers_clouds_118454_1440x2560.jpg",
