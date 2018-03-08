@@ -2,7 +2,7 @@
     "Collections":[
         {
             "name":"landscapes",
-            "url":"hhttp://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg",
+            "url":"http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg",
             "preview_thumbnail_url":"http://wallpaperscraft.com/image/winter_trees_snow_night_landscape_96069_2560x1440.jpg"
         },
         {
@@ -33,6 +33,190 @@
             "url":"_1440x2560.jpg",
             "thumbnail":"_480x800.jpg",
             "collections":"",
+            "downloadable":true
+        },
+        {
+            "name":"Airplane",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/airplane_sky_flight_clouds_height_118356_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/airplane_sky_flight_clouds_height_118356_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Trees Sunset",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/trees_fir_trees_sunset_sky_grass_118334_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/trees_fir_trees_sunset_sky_grass_118334_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Starry Sky And Roof",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/starry_sky_roof_weather_vane_118361_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/starry_sky_roof_weather_vane_118361_480x800.jpg",
+            "collections":"space,featured",
+            "downloadable":true
+        },
+        {
+            "name":"River Field",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/river_field_grass_trees_evening_118357_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/river_field_grass_trees_evening_118357_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Palm Tree",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/palms_night_clouds_119839_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/palms_night_clouds_119839_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Surf",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/sea_surf_cloudy_sky_119845_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/sea_surf_cloudy_sky_119845_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"White Car",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/auto_side_view_white_119858_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/auto_side_view_white_119858_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Tulips Flower",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/tulips_flowers_bouquet_wall_119856_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/tulips_flowers_bouquet_wall_119856_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Wheat Crop",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/field_crop_wheat_hay_grass_119851_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/field_crop_wheat_hay_grass_119851_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Shore",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/shore_trees_sea_119852_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/shore_trees_sea_119852_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Stars",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/starry_sky_stars_space_night_119881_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/starry_sky_stars_space_night_119881_480x800.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"Glare On Glass",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/glare_circles_glass_drops_119893_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/glare_circles_glass_drops_119893_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Neon Heart",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/heart_backlight_neon_119872_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/heart_backlight_neon_119872_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Art Surface",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/art_surface_grunge_paint_119898_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/art_surface_grunge_paint_119898_480x800.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"Back Lights Car",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/lights_auto_dark_119896_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/lights_auto_dark_119896_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Evening Sunset",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/city_evening_sunset_sky_uplands_119886_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/city_evening_sunset_sky_uplands_119886_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Flowers",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/flower_space_foliage_dark_119868_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/flower_space_foliage_dark_119868_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Maple Leaf",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/leaf_maple_dry_fallen_drops_119894_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/leaf_maple_dry_fallen_drops_119894_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Man And Light",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/silhouette_man_light_night_sky_119907_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/silhouette_man_light_night_sky_119907_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"City Vector Art",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/city_vector_panorama_119914_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/city_vector_panorama_119914_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Night City",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/night_city_skyscrapers_buildings_119892_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/night_city_skyscrapers_buildings_119892_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Sky Radience",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/starry_sky_radiance_mountains_sky_119859_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/starry_sky_radiance_mountains_sky_119859_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Cat",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/cat_winter_wind_snow_119913_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/cat_winter_wind_snow_119913_480x800.jpg",
+            "collections":"animals",
             "downloadable":true
         },
         {
