@@ -36,6 +36,127 @@
             "downloadable":true
         },
         {
+            "name":"Rose",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/rose_bud_flower_dark_background_118241_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/rose_bud_flower_dark_background_118241_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Clouds",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/clouds_sky_sunset_118243_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/clouds_sky_sunset_118243_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Couple Kiss",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/couple_kiss_tenderness_sea_sky_118245_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/couple_kiss_tenderness_sea_sky_118245_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Girl Hand",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/hand_ring_leaves_118252_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/hand_ring_leaves_118252_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Road Turn",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/road_turn_light_night_118256_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/road_turn_light_night_118256_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Boats",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/boats_mountains_lake_118260_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/boats_mountains_lake_118260_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Rain Shoes",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/feet_shoes_rain_118312_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/feet_shoes_rain_118312_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "url":"_1440x2560.jpg",
+            "name":"Trees Bottom View",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/trees_bottom_view_trunks_118303_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/trees_bottom_view_trunks_118303_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Night Mounatain",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/mountains_night_building_sky_119895_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/mountains_night_building_sky_119895_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"New York",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/manhattan_new_york_usa_evening_buildings_119912_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/manhattan_new_york_usa_evening_buildings_119912_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Roses",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/roses_bouquet_red_petals_119927_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/roses_bouquet_red_petals_119927_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Lake",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/rocks_stones_trees_lake_119862_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/rocks_stones_trees_lake_119862_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain Road",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/mountains_road_light_snowy_top_119871_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/mountains_road_light_snowy_top_119871_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Car Neon",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/art_neon_inscription_new_york_119903_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/art_neon_inscription_new_york_119903_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/elevation_starry_sky_night_119878_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/elevation_starry_sky_night_119878_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
             "name":"Airplane",
             "author":"Nithis",
             "url":"http://i0.wallpaperscraft.com/image/airplane_sky_flight_clouds_height_118356_1440x2560.jpg",
