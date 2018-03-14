@@ -36,6 +36,174 @@
             "downloadable":true
         },
         {
+            "name":"Pigeon Bird",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/pigeon_bird_water_blur_glare_119943_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/pigeon_bird_water_blur_glare_119943_480x800.jpg",
+            "collections":"birds",
+            "downloadable":true
+        },
+        {
+            "name":"Sneakers",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/sneakers_legs_blur_119932_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/sneakers_legs_blur_119932_480x800.jpg",
+            "collections":"others,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain Clouds",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/mountains_clouds_peaks_119921_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/mountains_clouds_peaks_119921_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Sea",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/cliff_sea_surf_sky_119920_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/cliff_sea_surf_sky_119920_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Clothspin",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/clothespin_light_window_glare_119919_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/clothespin_light_window_glare_119919_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Leaves",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/fern_leaves_green_plant_119923_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/fern_leaves_green_plant_119923_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Neon Light",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/neon_light_lamp_bright_lines_119939_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/neon_light_lamp_bright_lines_119939_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Labrador Dog",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/labrador_dog_muzzle_look_blur_119952_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/labrador_dog_muzzle_look_blur_119952_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Neon Diamond",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/hand_neon_diamond_backlight_119955_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/hand_neon_diamond_backlight_119955_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Railway",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/railway_evening_horizon_119944_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/railway_evening_horizon_119944_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Waterfall Iceland",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/waterfall_iceland_current_snow_119945_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/waterfall_iceland_current_snow_119945_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Sunset Horizon",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/silhouette_sunset_horizon_rock_119948_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/silhouette_sunset_horizon_rock_119948_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain Sunset",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/mountains_sunset_skyline_sky_119950_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/mountains_sunset_skyline_sky_119950_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Man On Path",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/path_grass_man_walk_clouds_119924_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/path_grass_man_walk_clouds_119924_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Winter Forest",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/winter_forest_road_snow_starry_sky_119951_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/winter_forest_road_snow_starry_sky_119951_480x800.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Yacht",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/yacht_sea_trees_shore_view_from_above_119954_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/yacht_sea_trees_shore_view_from_above_119954_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Dog Grass",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/dog_grass_walking_muzzle_119960_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/dog_grass_walking_muzzle_119960_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Skull",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/skull_arm_art_watches_119958_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/skull_arm_art_watches_119958_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Sunset Beach",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/horizon_sunset_sky_foam_surf_119957_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/horizon_sunset_sky_foam_surf_119957_480x800.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Inscription",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/inscription_motivation_text_dark_background_119959_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/inscription_motivation_text_dark_background_119959_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Horizon Mountain",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/mountains_horizon_sunset_sky_119963_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/mountains_horizon_sunset_sky_119963_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
             "name":"Rose",
             "author":"Nithis",
             "url":"http://i0.wallpaperscraft.com/image/rose_bud_flower_dark_background_118241_1440x2560.jpg",
@@ -92,7 +260,7 @@
             "downloadable":true
         },
         {
-            "url":"_1440x2560.jpg",
+            
             "name":"Trees Bottom View",
             "author":"Nithis",
             "url":"http://i2.wallpaperscraft.com/image/trees_bottom_view_trunks_118303_1440x2560.jpg",
