@@ -36,6 +36,158 @@
             "downloadable":true
         },
         {
+            "name":"Gray Cat",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/cat_gray_walk_grass_118077_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/cat_gray_walk_grass_118077_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain View Milky Way",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/starry_sky_mountains_galaxy_universe_118112_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/starry_sky_mountains_galaxy_universe_118112_480x800.jpg",
+            "collections":"landscapes,space",
+            "downloadable":true
+        },
+        {
+            "name":"Yoga Sunset",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/yoga_silhouette_sunset_man_118104_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/yoga_silhouette_sunset_man_118104_480x800.jpg",
+            "collections":"nature,people",
+            "downloadable":true
+        },
+        {
+            "name":"Horses",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/pasture_horses_mountains_118124_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/pasture_horses_mountains_118124_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Baytown",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/baytown_united_states_bridge_night_118116_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/baytown_united_states_bridge_night_118116_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Red Fireworks",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/salute_sparks_red_118111_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/salute_sparks_red_118111_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Green Eye Cat",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/cat_green_eyed_muzzle_look_118128_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/cat_green_eyed_muzzle_look_118128_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Autumn Trees",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/road_autumn_trees_118107_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/road_autumn_trees_118107_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Traffic Lights",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/traffic_light_direction_signs_118115_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/traffic_light_direction_signs_118115_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Winter Mountains",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/mountains_winter_snow_clouds_119984_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/mountains_winter_snow_clouds_119984_480x800.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Green Parrot",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/parrot_green_bird_branch_blur_119997_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/parrot_green_bird_branch_blur_119997_480x800.jpg",
+            "collections":"birds",
+            "downloadable":true
+        },
+        {
+            "name":"Tree At Night",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/starry_sky_tree_night_sky_119989_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/starry_sky_tree_night_sky_119989_480x800.jpg",
+            "collections":"nature,space",
+            "downloadable":true
+        },
+        {
+            "name":"Tress, Forest",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/trees_forest_top_view_green_119992_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/trees_forest_top_view_green_119992_480x800.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Lychees",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/lychees_fruits_berries_120020_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/lychees_fruits_berries_120020_480x800.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"Plant Branches",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/spruce_branches_needles_green_120002_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/spruce_branches_needles_green_120002_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Railway",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/railway_trees_sunset_120022_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/railway_trees_sunset_120022_480x800.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Moon Clouds",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/moon_clouds_sky_night_120024_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/moon_clouds_sky_night_120024_480x800.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"Labrador Dog",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/labrador_dog_muzzle_winter_snow_120035_2160x3840.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/labrador_dog_muzzle_winter_snow_120035_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Waterfall",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/waterfall_current_forest_trees_stones_120009_2160x3840.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/waterfall_current_forest_trees_stones_120009_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
             "name":"Bridge Board",
             "author":"Nithis",
             "url":"http://i0.wallpaperscraft.com/image/bridge_board_trees_118185_1440x2560.jpg",
