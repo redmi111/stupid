@@ -36,6 +36,79 @@
             "downloadable":true
         },
         {
+            "name":"Candle Decor",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/spruce_candle_decoration_christmas_118002_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/spruce_candle_decoration_christmas_118002_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Chillout Girl",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/girl_wreath_wind_118008_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/girl_wreath_wind_118008_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Guy With Cap",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/guy_silhouette_cap_backpack_118024_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/guy_silhouette_cap_backpack_118024_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Feet, Shoes",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/feet_autumn_foliage_rain_118026_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/feet_autumn_foliage_rain_118026_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Green Eye Cat",
+            "author":"Nithis",
+            "url":"http://i1.wallpaperscraft.com/image/cat_green_eyed_beautiful_look_118025_1440x2560.jpg",
+            "thumbnail":"http://i1.wallpaperscraft.com/image/cat_green_eyed_beautiful_look_118025_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Ocean",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/sea_ocean_shore_foam_117957_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/sea_ocean_shore_foam_117957_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Night Green",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/night_green_starry_sky_river_117961_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/night_green_starry_sky_river_117961_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain Fog",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/mountains_fog_trees_120121_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/mountains_fog_trees_120121_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"ferris Wheel",
+            "author":"Nithis",
+            "url":"http://i0.wallpaperscraft.com/image/ferris_wheel_attraction_sky_120107_1440x2560.jpg",
+            "thumbnail":"http://i0.wallpaperscraft.com/image/ferris_wheel_attraction_sky_120107_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        
+        {
             "name":"Girl On Rock",
             "author":"Nithis",
             "url":"http://i1.wallpaperscraft.com/image/rock_girl_breakage_height_117990_1440x2560.jpg",
