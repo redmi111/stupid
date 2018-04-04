@@ -36,6 +36,180 @@
             "downloadable":true
         },
         {
+            "name":"Pink Flowers",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/flowers_pink_blur_117901_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/flowers_pink_blur_117901_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Yellow Sports Car",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/auto_side_view_yellow_road_117912_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/auto_side_view_yellow_road_117912_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Eagle",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/eagle_bird_flight_wings_sky_117888_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/eagle_bird_flight_wings_sky_117888_480x800.jpg",
+            "collections":"birds",
+            "downloadable":true
+        },
+        {
+            "name":"Palm House",
+            "author":"Nithis",
+            "url":"http://i2.wallpaperscraft.com/image/house_palm_tree_plants_sunlight_117824_1440x2560.jpg",
+            "thumbnail":"http://i2.wallpaperscraft.com/image/house_palm_tree_plants_sunlight_117824_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Leopard #1",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/leopard_green_eyed_muzzle_predator_look_117897_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/leopard_green_eyed_muzzle_predator_look_117897_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Leaf On Hands",
+            "author":"Nithis",
+            "url":"http://.wallpaperscraft.com/image/fern_leaf_hands_palms_autumn_117828_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/fern_leaf_hands_palms_autumn_117828_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Waterfall",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/waterfall_river_stones_current_117833_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/waterfall_river_stones_current_117833_480x800.jpg",
+            "collections":"landscapes,nature",
+            "downloadable":true
+        },
+        
+        {
+            "name":"Summer Grass Field",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/grass_field_summer_sky_green_117841_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/grass_field_summer_sky_green_117841_480x800.jpg",
+            "collections":"nature,landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Candle Light",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/candle_glare_light_117920_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/candle_glare_light_117920_480x800.jpg",
+            "collections":"",
+            "downloadable":true
+        },
+        {
+            "name":"Dubai",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/dubai_united_arab_emirates_skyscrapers_117933_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/dubai_united_arab_emirates_skyscrapers_117933_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Cranberries",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/cranberries_berries_close_up_117969_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/cranberries_berries_close_up_117969_480x800.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"Plant Grass",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/plant_foliage_grass_green_120233_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/plant_foliage_grass_green_120233_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Sunset",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/silhouette_sea_sunset_man_horizon_120238_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/silhouette_sea_sunset_man_horizon_120238_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Red Sneakers",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/sneakers_red_minimalism_legs_120251_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/sneakers_red_minimalism_legs_120251_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Water Pot",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/pot_spray_hand_blur_120243_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/pot_spray_hand_blur_120243_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Doggy",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/dog_water_walk_collar_120244_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/dog_water_walk_collar_120244_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        
+        {
+            "name":"Lamp",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/lamp_electricity_light_wires_blur_120249_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/lamp_electricity_light_wires_blur_120249_480x800.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        
+        {
+            "name":"Paint",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/sign_paint_shabby_wall_120255_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/sign_paint_shabby_wall_120255_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        
+        {
+            "name":"Girl Sunset",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/girl_sunset_sky_120289_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/girl_sunset_sky_120289_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        
+        {
+            "name":"Trees and Grass",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/palms_grass_sky_summer_120258_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/palms_grass_sky_summer_120258_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        
+        {
+            "name":"Dark Tunnel",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/tunnel_passage_dark_red_120259_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/tunnel_passage_dark_red_120259_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
             "name":"island",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/island_ocean_top_view_120185_1440x2560.jpg",
