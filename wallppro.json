@@ -36,11 +36,251 @@
             "downloadable":true
         },
         {
-            "name":"Amoled #1",
+            "name":"Dog #6",
             "author":"Nithis",
-            "url":"https://github.com/redmi111/stupid/raw/master/1523586007659.jpg",
-            "thumbnail":"https://github.com/redmi111/stupid/raw/master/1523586007659.jpg",
-            "collections":"superAmoled",
+            "url":"http://wallpaperscraft.com/image/dog_grass_walk_117422_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/dog_grass_walk_117422_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Horse",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/horse_grass_walk_117470_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/horse_grass_walk_117470_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Sea And Rock",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/sea_rock_boat_shore_117364_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/sea_rock_boat_shore_117364_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Bridge Autumn",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/bridge_autumn_foliage_117372_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/bridge_autumn_foliage_117372_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Tree View form bottom",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/trees_view_from_below_sky_117418_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/trees_view_from_below_sky_117418_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Leopard",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/leopard_predator_muzzle_look_117482_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/leopard_predator_muzzle_look_117482_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Dog Walking On Water",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/dog_walk_water_stick_117491_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/dog_walk_water_stick_117491_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"River Shore",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/river_shore_trees_sunlight_117464_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/river_shore_trees_sunlight_117464_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Waves",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/sea_surf_shore_117469_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/sea_surf_shore_117469_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Oak, Foliage",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/foliage_oak_autumn_grass_117477_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/foliage_oak_autumn_grass_117477_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Waterfall",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/waterfall_precipice_stones_shadow_117480_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/waterfall_precipice_stones_shadow_117480_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Light Lines",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/light_turn_lines_117520_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/light_turn_lines_117520_480x800.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"SUV",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/suv_side_view_black_117517_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/suv_side_view_black_117517_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Forest, Trees",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/trees_forest_light_117521_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/trees_forest_light_117521_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"New York",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/new_york_usa_skyscrapers_beach_117549_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/new_york_usa_skyscrapers_beach_117549_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Pig Piolet",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/pig_pilot_statuette_117547_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/pig_pilot_statuette_117547_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Paraglider",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/paraglider_parachute_flying_117574_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/paraglider_parachute_flying_117574_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Basketball Shield",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/basketball_shield_basketball_mesh_117592_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/basketball_shield_basketball_mesh_117592_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain Lake",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/mountains_fog_lake_sky_117628_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/mountains_fog_lake_sky_117628_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Space And Stars",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/space_starry_sky_stars_rosette_120518_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/space_starry_sky_stars_rosette_120518_480x800.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"Lion",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/lion_muzzle_mane_predator_look_120524_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/lion_muzzle_mane_predator_look_120524_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Spiral Light",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/light_spiral_building_abandoned_120522_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/light_spiral_building_abandoned_120522_480x800.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"UFO",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/ufo_children_space_ship_photoshop_futuristic_120539_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/ufo_children_space_ship_photoshop_futuristic_120539_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Tiger",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/tiger_predator_stones_wildlife_120536_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/tiger_predator_stones_wildlife_120536_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Chinease Dog",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/chinese_imperial_dog_dog_muzzle_protruding_tongue_120555_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/chinese_imperial_dog_dog_muzzle_protruding_tongue_120555_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Nature Cave",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/cave_tide_stones_sea_120566_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/cave_tide_stones_sea_120566_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Man On Evening",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/silhouette_man_night_moon_sky_120572_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/silhouette_man_night_moon_sky_120572_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Closeup Flower",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/flower_violet_close_up_blur_120570_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/flower_violet_close_up_blur_120570_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Rocks Sea Surface",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/rocks_sea_surf_waves_120573_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/rocks_sea_surf_waves_120573_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Butterfly",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/butterfly_stones_wet_120577_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/butterfly_stones_wet_120577_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Pink Light",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/wall_light_pink_tile_120597_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/wall_light_pink_tile_120597_480x800.jpg",
+            "collections":"texture",
             "downloadable":true
         },
         {
@@ -475,7 +715,6 @@
             "collections":"animals",
             "downloadable":true
         },
-        
         {
             "name":"Mountains",
             "author":"Nithis",
@@ -484,7 +723,6 @@
             "collections":"landscapes",
             "downloadable":true
         },
-        
         {
             "name":"Tree Views",
             "author":"Nithis",
@@ -493,7 +731,6 @@
             "collections":"landscapes,featured",
             "downloadable":true
         },
-        
         {
             "name":"Clouds",
             "author":"Nithis",
@@ -502,7 +739,6 @@
             "collections":"space,featured",
             "downloadable":true
         },
-        
         {
             "name":"cabbage",
             "author":"Nithis",
@@ -511,7 +747,6 @@
             "collections":"nature",
             "downloadable":true
         },
-        
         {
             "name":"Trees Autumn",
             "author":"Nithis",
@@ -520,7 +755,6 @@
             "collections":"nature,featured",
             "downloadable":true
         },
-        
         {
             "name":"Graphics Heart",
             "author":"Nithis",
@@ -529,7 +763,6 @@
             "collections":"others",
             "downloadable":true
         },
-        
         {
             "name":"Feet",
             "author":"Nithis",
@@ -538,7 +771,6 @@
             "collections":"nature",
             "downloadable":true
         },
-        
         {
             "name":"Heart Shape",
             "author":"Nithis",
@@ -547,7 +779,6 @@
             "collections":"others",
             "downloadable":true
         },
-        
         {
             "name":"River, Stream",
             "author":"Nithis",
@@ -556,7 +787,6 @@
             "collections":"landscapes,featured",
             "downloadable":true
         },
-        
         {
             "name":"Mountain Goat",
             "author":"Nithis",
@@ -565,7 +795,6 @@
             "collections":"animals",
             "downloadable":true
         },
-        
         {
             "name":"Sunset #RailRoad",
             "author":"Nithis",
@@ -574,7 +803,6 @@
             "collections":"nature,featutred",
             "downloadable":true
         },
-        
         {
             "name":"Pumpkin",
             "author":"Nithis",
@@ -933,7 +1161,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/auto_road_evening_fog_trees_120343_1440x2560.jpg",
             "thumbnail":"http://wallpaperscraft.com/image/auto_road_evening_fog_trees_120343_480x800.jpg",
-            "collections":"cars,landscsapes",
+            "collections":"cars,landscapes",
             "downloadable":true
         },
         {
@@ -3861,7 +4089,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/rock_stones_texture_surface_119650_1440x2560.jpg",
             "thumbnail":"http://wallpaperscraft.com/image/rock_stones_texture_surface_119650_480x800.jpg",
-            "collections":";landscapes",
+            "collections":"landscapes",
             "downloadable":true
         },
         {
