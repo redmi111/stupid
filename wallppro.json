@@ -36,6 +36,86 @@
             "downloadable":true
         },
         {
+            "name":"Doggy",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/chihuahua_dog_toy_grass_walk_117389_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/chihuahua_dog_toy_grass_walk_117389_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Mushroom",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/fly_agaric_mushroom_fall_foliage_117318_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/fly_agaric_mushroom_fall_foliage_117318_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Leaf Shadow",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/leaf_light_shadow_117324_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/leaf_light_shadow_117324_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"River Grass",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/lifebuoy_grass_river_reflection_water_lake_120540_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/lifebuoy_grass_river_reflection_water_lake_120540_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Lamp Post",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/lamp_post_wall_pillar_stripes_minimalism_120547_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/lamp_post_wall_pillar_stripes_minimalism_120547_480x800.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"Small Flowers",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/flowers_blue_field_blur_120562_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/flowers_blue_field_blur_120562_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Plants",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/foliage_plants_green_carved_120557_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/foliage_plants_green_carved_120557_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Road Marking",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/road_marking_night_signs_120626_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/road_marking_night_signs_120626_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Man Sitting",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/skyscrapers_man_height_roof_120629_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/skyscrapers_man_height_roof_120629_480x800.jpg",
+            "collections":"people,featured",
+            "downloadable":true
+        },
+        {
+            "name":"City #4",
+            "author":"Nithis",
+            "url":"http://wallpaperscraft.com/image/skyscrapers_road_evening_120636_1440x2560.jpg",
+            "thumbnail":"http://wallpaperscraft.com/image/skyscrapers_road_evening_120636_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },   
+        {
             "name":"Dog #6",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/dog_grass_walk_117422_1440x2560.jpg",
