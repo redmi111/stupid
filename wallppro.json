@@ -36,6 +36,22 @@
             "downloadable":true
         },
         {
+            "name":"",
+            "author":"Nithis",
+            "url":"",
+            "thumbnail":"",
+            "collections":"Android Stock OEM",
+            "downloadable":true
+        },
+        {
+            "name":"ASUS Stock",
+            "author":"Nithis",
+            "url":"https://raw.githubusercontent.com/redmi111/stupid/master/stockw/ASUS%20X008890.jpg",
+            "thumbnail":"https://raw.githubusercontent.com/redmi111/stupid/master/stockw/ASUS%20X008890.jpg",
+            "collections":"Android Stock OEM",
+            "downloadable":true
+        },
+        {
             "name":"Mountain Skier",
             "author":"Nithis",
             "url":"https://wallpaperscraft.com/image/skier_mountains_snow_117272_1440x2560.jpg",
