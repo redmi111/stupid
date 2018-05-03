@@ -36,6 +36,254 @@
             "downloadable":true
         },
         {
+            "name":"Mountain Skier",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/skier_mountains_snow_117272_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/skier_mountains_snow_117272_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Lamps",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/lamps_lighting_ceiling_117235_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/lamps_lighting_ceiling_117235_480x800.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"Elephant",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/elephant_grass_walk_117264_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/elephant_grass_walk_117264_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Red Flowers",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/flower_bud_petals_117277_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/flower_bud_petals_117277_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"White Car Sideview",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/auto_side_view_white_117304_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/auto_side_view_white_117304_480x800.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"girl, lamp",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/lamp_field_grass_hand_117254_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/lamp_field_grass_hand_117254_480x800.jpg",
+            "collections":"featured",
+            "downloadable":true
+        },
+        {
+            "name":"Black Berries",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/grapevine_grapes_berries_117319_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/grapevine_grapes_berries_117319_480x800.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"River, Building",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/building_river_buildings_architecture_117344_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/building_river_buildings_architecture_117344_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Elephant Trees",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/elephant_trees_grass_117322_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/elephant_trees_grass_117322_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Tulips Flower",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/tulips_flowers_stem_117361_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/tulips_flowers_stem_117361_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Coconut Trees",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/palms_trees_starry_sky_117239_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/palms_trees_starry_sky_117239_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Sunset Sea",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/sea_sunset_shore_birds_117242_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/sea_sunset_shore_birds_117242_480x800.jpg",
+            "collections":"landscapes,nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Fruits #4",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/fruit_book_scissors_mug_117368_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/fruit_book_scissors_mug_117368_480x800.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"Lantern",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/lantern_lamp_branches_117340_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/lantern_lamp_branches_117340_480x800.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"Jaguar",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/jaguar_predator_lying_muzzle_117355_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/jaguar_predator_lying_muzzle_117355_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Road Mark",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/road_marking_movement_117280_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/road_marking_movement_117280_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Mountains",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/mountains_lake_trees_sky_117283_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/mountains_lake_trees_sky_117283_480x800.jpg",
+            "collections":"landscapes,nature",
+            "downloadable":true
+        },
+        {
+            "name":"Railway Tunnel",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/tunnel_railway_autumn_117294_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/tunnel_railway_autumn_117294_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Footbal",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/ball_football_lawn_grass_117371_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/ball_football_lawn_grass_117371_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Winter Snow",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/field_snow_winter_sunset_117326_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/field_snow_winter_sunset_117326_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Flames",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/fire_flame_ash_117390_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/fire_flame_ash_117390_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Grapes",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/grapes_berries_vine_branch_117414_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/grapes_berries_vine_branch_117414_480x800.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"Flower Petals",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/flower_bud_petals_117444_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/flower_bud_petals_117444_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Color Texture",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/texture_flowers_patterns_117445_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/texture_flowers_patterns_117445_480x800.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"Husky Dog",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/husky_dog_muzzle_117457_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/husky_dog_muzzle_117457_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Rocks",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/rocks_sea_surf_117352_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/rocks_sea_surf_117352_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Shangai China",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/shanghai_china_skyscrapers_117473_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/shanghai_china_skyscrapers_117473_480x800.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Pink Flowers",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/flowers_branches_blossom_117474_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/flowers_branches_blossom_117474_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"lamp lightning",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/lamp_lighting_electricity_117426_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/lamp_lighting_electricity_117426_480x800.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"Sea Surface",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/sea_surf_foam_shore_117373_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/sea_surf_foam_shore_117373_480x800.jpg",
+            "collections":"nature,landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Mountains",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/mountains_fog_lake_117376_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/mountains_fog_lake_117376_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
             "name":"Doggy",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/chihuahua_dog_toy_grass_walk_117389_1440x2560.jpg",
