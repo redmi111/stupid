@@ -40,7 +40,23 @@
             "author":"Nithis",
             "url":"",
             "thumbnail":"",
-            "collections":"Android Stock OEM",
+            "collections":"Android Stock Walls",
+            "downloadable":true
+        },
+        {
+            "name":"Sparrow",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/bird_stack_snow_117238_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/bird_stack_snow_117238_480x800.jpg",
+            "collections":"birds",
+            "downloadable":true
+        },
+        {
+            "name":"Clouds",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/sky_clouds_overcast_117193_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/sky_clouds_overcast_117193_480x800.jpg",
+            "collections":"nature",
             "downloadable":true
         },
         {
