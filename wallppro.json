@@ -44,6 +44,86 @@
             "downloadable":true
         },
         {
+            "name":"Palm Trees",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/palms_sunset_sky_117010_1440x2560.jpg",
+            "thumbnail":"https://allpaperscraft.com/image/palms_sunset_sky_117010_480x800.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Children",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/children_grass_sunlight_walk_117107_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/children_grass_sunlight_walk_117107_480x800.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"Cosmonaut, Spacesuit",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/cosmonaut_spacesuit_sculpture_wooden_117140_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/cosmonaut_spacesuit_sculpture_wooden_117140_480x800.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain Peaks",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/mountains_peaks_lake_117046_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/mountains_peaks_lake_117046_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"White flower bud",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/flower_blur_stem_117161_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/flower_blur_stem_117161_480x800.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Tiger #5",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/tiger_predator_fangs_muzzle_117148_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/tiger_predator_fangs_muzzle_117148_480x800.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Toy Bus",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/bus_toy_grass_117171_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/bus_toy_grass_117171_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"River rocks",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/river_stones_stream_117120_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/river_stones_stream_117120_480x800.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"Match Fire",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/fire_hand_match_117164_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/fire_hand_match_117164_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Subway Sign",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/subway_sign_letter_backlight_117168_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/subway_sign_letter_backlight_117168_480x800.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
             "name":"Android Oreo #2",
             "author":"Nithis",
             "url":"https://github.com/redmi111/stupid/raw/master/stockw/Android%20Oreo508.jpg",
