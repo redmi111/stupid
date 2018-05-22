@@ -49,7 +49,7 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
-            "collections":"4K Wide,nature",
+            "collections":"4k widescreen,nature",
             "downloadable":true
         },
         {
@@ -65,7 +65,7 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/sunset-3840x2160-cloud-reflections-4k-7328.jpg",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-1280x720-cloud-reflections-4k-7328.jpg",
-            "collections":"amoled widescreen,landscapes",
+            "collections":"4k widescreen,landscapes",
             "downloadable":true
         },
         {
@@ -73,7 +73,7 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/sunset-2880x1800-minimal-dark-cgi-hd-4k-12329.png",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-1024x768-minimal-dark-cgi-hd-4k-12329.png",
-            "collections":"amoled widescreen,artwork",
+            "collections":"4k widescreen,artwork",
             "downloadable":true
         },
         {
@@ -89,7 +89,7 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/xbox-one-x-3840x2160-gaming-console-microsoft-hd-4k-11135.jpg",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/xbox-one-x-1920x1080-gaming-console-microsoft-hd-4k-11135.jpg",
-            "collections":"amoled widescreen,tech",
+            "collections":"4k widescreen,tech",
             "downloadable":true
         },
         {
@@ -97,7 +97,7 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/spider-man-3840x2160-playstation-4-2018-4k-10910.png",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/spider-man-1280x720-playstation-4-2018-4k-10910.png",
-            "collections":"amoled widescreen,featured,super heros",
+            "collections":"4k widescreen,featured,super heros",
             "downloadable":true
         },
         {
@@ -105,7 +105,7 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/spider-man-2666x1500-body-armor-logo-7714.jpg",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/spider-man-2666x1500-body-armor-logo-7714.jpg",
-            "collections":"amoled widescreen,super heros",
+            "collections":"4k widescreen,super heros",
             "downloadable":true
         },
         {
@@ -121,7 +121,7 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/captain-america-wallpaper-3840x2160-spider-man-iron-man-civil-war-artwork-4k-12144.jpg",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/captain-america-wallpaper-1280x720-spider-man-iron-man-civil-war-artwork-4k-12144.jpg",
-            "collections":"super heros,amoled widescreen",
+            "collections":"super heros,4k widescreen",
             "downloadable":true
         },
         {
@@ -1865,7 +1865,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/railroad_train_sunset_117837_1440x2560.jpg",
             "thumbnail":"http://wallpaperscraft.com/image/railroad_train_sunset_117837_480x800.jpg",
-            "collections":"nature,featutred",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
