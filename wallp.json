@@ -43,12 +43,133 @@
             "collections":"Android Stock Walls",
             "downloadable":true
         },
+        
+        {
+            "name":"sunset 4k/widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
+            "collections":"4k widescreen,nature",
+            "downloadable":true
+        },
+        {
+            "name":"sunset graphics",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-1440x2560-illustration-hd-4k-9060.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-1440x2560-illustration-hd-4k-9060.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"sunset 4k/widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-3840x2160-cloud-reflections-4k-7328.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-1280x720-cloud-reflections-4k-7328.jpg",
+            "collections":"4k widescreen,landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"nature art widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-2880x1800-minimal-dark-cgi-hd-4k-12329.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-1024x768-minimal-dark-cgi-hd-4k-12329.png",
+            "collections":"4k widescreen,artwork",
+            "downloadable":true
+        },
+        {
+            "name":"ubuntu fire",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/ubuntu-wallpaper-1440x2560-dark-logo-hd-9213.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/ubuntu-wallpaper-1440x2560-dark-logo-hd-9213.jpg",
+            "collections":"tech",
+            "downloadable":true
+        },
+        {
+            "name":"xbox one x",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/xbox-one-x-3840x2160-gaming-console-microsoft-hd-4k-11135.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/xbox-one-x-1920x1080-gaming-console-microsoft-hd-4k-11135.jpg",
+            "collections":"4k widescreen,tech",
+            "downloadable":true
+        },
+        {
+            "name":"spiderman-ps4-4k/widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/spider-man-3840x2160-playstation-4-2018-4k-10910.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/spider-man-1280x720-playstation-4-2018-4k-10910.png",
+            "collections":"4k widescreen,featured,super heros",
+            "downloadable":true
+        },
+        {
+            "name":"spider-art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/spider-man-2666x1500-body-armor-logo-7714.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/spider-man-2666x1500-body-armor-logo-7714.jpg",
+            "collections":"4k widescreen,super heros",
+            "downloadable":true
+        },
+        {
+            "name":"sunset art #1",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-1440x2560-reflections-seascape-4k-13202.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-720x1280-reflections-seascape-4k-13202.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"captain america 4k/widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/captain-america-wallpaper-3840x2160-spider-man-iron-man-civil-war-artwork-4k-12144.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/captain-america-wallpaper-1280x720-spider-man-iron-man-civil-war-artwork-4k-12144.jpg",
+            "collections":"super heros,4k widescreen",
+            "downloadable":true
+        },
+        {
+            "name":"spiderman ps4",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/spider-man-wallpaper-1440x2560-playstation-4-2018-4k-13334.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/spider-man-wallpaper-720x1280-playstation-4-2018-4k-13334.jpg",
+            "collections":"super heros",
+            "downloadable":true
+        },
+        {
+            "name":"sunset bottle art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-1440x2560-bottle-sea-crab-horses-house-ocean-4k-13024.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-720x1280-bottle-sea-crab-horses-house-ocean-4k-13024.jpg",
+            "collections":"artwork,featured",
+            "downloadable":true
+        },
+        {
+            "name":"deadpool art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/deadpool-wallpaper-1440x2560-abstract-hd-11903.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/deadpool-wallpaper-720x1280-abstract-hd-11903.jpg",
+            "collections":"super heros,artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Spiderman",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/spider-man-wallpaper-1440x2560-avengers-infinity-war-marvel-comics-hd-12818.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/spider-man-wallpaper-720x1280-avengers-infinity-war-marvel-comics-hd-12818.jpg",
+            "collections":"super heros,artwork",
+            "downloadable":true
+        },
+        {
+            "name":"graphics nature",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/landscape-wallpaper-1440x2560-sunset-colorful-pink-4k-13451.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/landscape-wallpaper-720x1280-sunset-colorful-pink-4k-13451.jpg",
+            "collections":"featured,artwork",
+            "downloadable":true
+        },
         {
             "name":"deadpool art amoled",
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/deadpool-wallpaper-1440x2560-artwork-minimal-4k-8k-13676.png",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/deadpool-wallpaper-720x1280-artwork-minimal-4k-8k-13676.png",
-            "collections":"super heros",
+            "collections":"super heros,artwork",
             "downloadable":true
         },
         {
@@ -72,7 +193,7 @@
             "author":"Nithis",
             "url":"https://wallpaperscraft.com/image/owl_bird_art_branch_97204_1440x2560.jpg",
             "thumbnail":"https://wallpaperscraft.com/image/owl_bird_art_branch_97204_480x800.jpg",
-            "collections":"birds",
+            "collections":"artwork",
             "downloadable":true
         },
         {
@@ -1744,7 +1865,7 @@
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/railroad_train_sunset_117837_1440x2560.jpg",
             "thumbnail":"http://wallpaperscraft.com/image/railroad_train_sunset_117837_480x800.jpg",
-            "collections":"nature,featutred",
+            "collections":"nature,featured",
             "downloadable":true
         },
         {
