@@ -59,14 +59,7 @@
             "collections":"nature",
             "downloadable":true
         },        
-        {
-            "name":"space rocket 4k wide",
-            "author":"Nithis",
-            "url":"https://wallpapersite.com/images/wallpapers/rocket-2560x1440-space-hd-13248.png",
-            "thumbnail":"https://wallpapersite.com/images/wallpapers/rocket-2560x1440-space-hd-13248.png",
-            "collections":"4k widescreen",
-            "downloadable":true
-        },
+       
         {
             "name":"space rocket art",
             "author":"Nithis",
@@ -8018,6 +8011,14 @@
             "author":"Nithis",
             "url":"https://wallpapersite.com/images/wallpapers/building-wallpaper-3840x2160-office-architecture-glass-skyscraper-4k-9403.jpg",
             "thumbnail":"https://wallpapersite.com/images/wallpapers/building-wallpaper-1280x720-office-architecture-glass-skyscraper-4k-9403.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
+        {
+            "name":"space rocket 4k wide",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/rocket-2560x1440-space-hd-13248.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/rocket-2560x1440-space-hd-13248.png",
             "collections":"4k widescreen",
             "downloadable":true
         },
