@@ -42,16 +42,89 @@
             "thumbnail":"",
             "collections":"Android Stock Walls",
             "downloadable":true
-        },
-        
+        },       
         {
-            "name":"sunset 4k/widescreen",
+            "name":"couples hands",
             "author":"Nithis",
-            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
-            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
-            "collections":"4k widescreen,nature",
+            "url":"https://wallpapersite.com/images/wallpapers/lovers-wallpaper-1440x2560-couple-sunset-silhouette-4k-9636.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/lovers-wallpaper-480x854-couple-sunset-silhouette-4k-9636.jpg",
+            "collections":"people",
             "downloadable":true
         },
+        {
+            "name":"sunset and star trail",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-1440x2560-milky-way-star-trail-dusk-5k-13683.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-480x854-milky-way-star-trail-dusk-5k-13683.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },        
+        {
+            "name":"space rocket 4k wide",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/rocket-2560x1440-space-hd-13248.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/rocket-2560x1440-space-hd-13248.png",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
+        {
+            "name":"space rocket art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/rocket-wallpaper-1440x2560-space-hd-13248.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/rocket-wallpaper-1440x2560-space-hd-13248.png",
+            "collections":"artwork",
+            "downloadable":true
+        },        
+        {
+            "name":"rocket art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/rocket-wallpaper-1440x2560-moon-stars-clouds-space-illustration-12959.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/rocket-wallpaper-1440x2560-moon-stars-clouds-space-illustration-12959.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },        
+        {
+            "name":"nebula portrait",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/helix-nebula-wallpaper-1440x2560-ngc-7293-milky-way-planetary-4k-8k-13626.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/helix-nebula-wallpaper-720x1280-ngc-7293-milky-way-planetary-4k-8k-13626.jpg",
+            "collections":"space",
+            "downloadable":true
+        },                   
+        {
+            "name":"Modern Architecture",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/architecture-wallpaper-1440x2560-modern-minimal-building-5k-13116.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/architecture-wallpaper-720x1280-modern-minimal-building-5k-13116.jpg",
+            "collections":"tech",
+            "downloadable":true
+        },
+       
+        {
+            "name":"Modern Design",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/cube-wallpaper-1440x2560-energy-architecture-3d-modern-4k-13820.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/cube-wallpaper-720x1280-energy-architecture-3d-modern-4k-13820.jpg",
+            "collections":"artwork,tech",
+            "downloadable":true
+        },
+        {
+            "name":"flash artwork",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/the-flash-wallpaper-1440x2560-minimal-artwork-headshot-4k-8k-13817.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/the-flash-wallpaper-1080x1920-minimal-artwork-headshot-4k-8k-13817.png",
+            "collections":"artwork,super heros",
+            "downloadable":true
+        },
+        {
+            "name":"sunset portrait",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-1440x2560-palm-trees-tropical-beach-hd-6500.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-720x1280-palm-trees-tropical-beach-hd-6500.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        
         {
             "name":"sunset graphics",
             "author":"Nithis",
@@ -6596,6 +6669,14 @@
             "collections":"tech",
             "downloadable":true
         },
+         {
+            "name":"modern design 4k/wide",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/cube-3840x2160-energy-architecture-3d-modern-4k-13820.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/cube-wallpaper-1280x720-energy-architecture-3d-modern-4k-13820.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
         {
             "name":"Naruto",
             "author":"Nithis",
@@ -7933,6 +8014,14 @@
             "downloadable":true
         },
         {
+            "name":"modern building 4k wide",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/building-wallpaper-3840x2160-office-architecture-glass-skyscraper-4k-9403.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/building-wallpaper-1280x720-office-architecture-glass-skyscraper-4k-9403.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
+        {
             "name":"BMW X6",
             "author":"Nithis",
             "url":"http://wallpaperscraft.com/image/bmw_x6_m_za_spec_f16_105448_1440x2560.jpg",
@@ -8202,6 +8291,14 @@
             "url":"http://wallpaperscraft.com/image/lemur_look_animal_107926_1440x2560.jpg",
             "thumbnail":"http://wallpaperscraft.com/image/lemur_look_animal_107926_168x300.jpg",
             "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"sunset 4k/widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-wallpaper-2880x1800-palm-trees-tropical-beach-hd-6500.jpg",
+            "collections":"4k widescreen",
             "downloadable":true
         },
         {
@@ -8822,6 +8919,14 @@
             "collections":"nature,featured",
             "downloadable":true
         },
+        {
+            "name":"nebula 4k widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/helix-nebula-wallpaper-5120x2880-ngc-7293-milky-way-planetary-4k-8k-13626.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/helix-nebula-wallpaper-1280x720-ngc-7293-milky-way-planetary-4k-8k-13626.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
         
           {
             "name":"Forest Trees",
@@ -9222,6 +9327,22 @@
             "collections":"featured,landscapes,people,food"
         },
         {
+            "name":"sunset and stars 4k wide",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/sunset-3840x2160-milky-way-star-trail-dusk-5k-13683.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/sunset-1280x720-milky-way-star-trail-dusk-5k-13683.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
+        {
+            "name":"rocket art 8k widescreen",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/rocket-16000x10000-moon-stars-clouds-space-illustration-12959.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/rocket-wallpaper-1920x1200-moon-stars-clouds-space-illustration-12959.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
+        {
             "name":"3",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
@@ -9258,6 +9379,14 @@
             "collections":"featured,people"
         },
         {
+            "name":"modern architecture",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/architecture-5616x3744-modern-minimal-building-5k-13116.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/architecture-wallpaper-1280x720-modern-minimal-building-5k-13116.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
+        {
             "name":"Wallsplash 7",
             "author":"wallsplash",
             "url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
@@ -9266,6 +9395,22 @@
             "copyright":"Free (do whatever you want)",
             "collections":"landscapes,people"
         },
+        {
+            "name":"coples hands 4k wide",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/lovers-3629x2592-couple-sunset-silhouette-4k-9636.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/lovers-wallpaper-720x1280-couple-sunset-silhouette-4k-9636.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        },
+        {
+            "name":"staircase wallpaper",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/staircase-3840x2160-spiral-architecture-5k-10640.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/staircase-1280x720-spiral-architecture-5k-10640.jpg",
+            "collections":"4k widescreen",
+            "downloadable":true
+        }, 
         {
             "name":"Wallsplash 8",
             "author":"wallsplash",
