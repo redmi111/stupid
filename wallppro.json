@@ -42,6 +42,126 @@
 			"downloadable": true
 		},
 
+        {
+            "name":"Landscapes #4",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/airplane-1440x2560-mountains-landscape-neon-vibrant-hd-14088.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/airplane-360x640-mountains-landscape-neon-vibrant-hd-14088.png",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Micky Mouce Wallpaper",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/mickey-mouse-1440x2560-hd-4k-11611.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/mickey-mouse-360x640-hd-4k-11611.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Dubai Cityscape",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/skyscrapers-1440x2560-architecture-dubai-cityscape-skyline-modern-4k-8142.jpeg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/skyscrapers-360x640-architecture-dubai-cityscape-skyline-modern-4k-8142.jpeg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Dubai Night",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/dubai-1440x2560-cityscape-night-4k-8k-12919.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/dubai-360x640-cityscape-night-4k-8k-12919.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Lines",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/colorful-1440x2560-lines-hd-900.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/colorful-360x640-lines-hd-900.jpg",
+            "collections":"Android Stock Walls",
+            "downloadable":true
+        },
+        {
+            "name":"Biker",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/bmw-concept-roadster-1440x2560-hd-14058.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/bmw-concept-roadster-360x640-hd-14058.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Citroen C5",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/citroen-c5-aircross-1440x2560-compact-crossover-suv-2018-4k-13979.jpeg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/citroen-c5-aircross-360x640-compact-crossover-suv-2018-4k-13979.jpeg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"Rainbow six siege",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/rainbow-six-siege-1440x2560-pro-league-4k-12712.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/rainbow-six-siege-360x640-pro-league-4k-12712.jpg",
+            "collections":"games",
+            "downloadable":true
+        },
+        {
+            "name":"Destiny Wallpaper 2",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/destiny-1440x2560-hd-5k-3307.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/destiny-360x640-hd-5k-3307.jpg",
+            "collections":"games",
+            "downloadable":true
+        },
+        {
+            "name":"Destiny Wallpaper",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/destiny-1440x2560-warmind-dlc-2018-4k-13180.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/destiny-360x640-warmind-dlc-2018-4k-13180.jpg",
+            "collections":"games",
+            "downloadable":true
+        },
+        {
+            "name":"Couples Kiss",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/kiss-1440x2560-couple-sunset-romantic-hd-9036.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/kiss-360x640-couple-sunset-romantic-hd-9036.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"Team Valor",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/team-valor-1440x2560-team-red-pokemon-go-4k-1358.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/team-valor-360x640-team-red-pokemon-go-4k-1358.png",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Pokemon GO",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/pokemon-go-1440x2560-journey-dreams-hd-1943.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/pokemon-go-360x640-journey-dreams-hd-1943.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Mountain #5",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/journey-1440x2560-mountains-4k-5k-1098.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/journey-360x640-mountains-4k-5k-1098.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"purple landscape",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/mountains-1440x2560-landscape-purple-gradient-horizon-minimal-hd-4k-13546.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/mountains-360x640-landscape-purple-gradient-horizon-minimal-hd-4k-13546.png",
+            "collections":"landscapes",
+            "downloadable":true
+        },
 		{
 			"name": "spiderman ps4 #3",
 			"author": "Nithis",
@@ -9776,7 +9896,7 @@
 			"author": "Nithis",
 			"url": "https://wallpapersite.com/images/wallpapers/sunset-3840x2160-cloud-reflections-4k-7328.jpg",
 			"thumbnail": "https://wallpapersite.com/images/wallpapers/sunset-1280x720-cloud-reflections-4k-7328.jpg",
-			"collections": "4k widescreen",
+			"collections": "4k widescreen,landscapes",
 			"downloadable": true
 		}
 		]
