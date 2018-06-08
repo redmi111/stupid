@@ -41,6 +41,127 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
+		       
+        {
+            "name":"ford mustang",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/ford_mustang_car_black_121754_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/ford_mustang_car_black_121754_360x640.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"astronaut",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/astronaut_spacesuit_butterflies_121755_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/astronaut_spacesuit_butterflies_121755_360x640.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"football player",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/footballer_ball_football_boots_121762_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/footballer_ball_football_boots_121762_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"night city, man",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/night_city_man_legs_121764_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/night_city_man_legs_121764_360x640.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"sculpture photoshop",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/sculpture_photoshop_bridge_121768_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/sculpture_photoshop_bridge_121768_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"black wall",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/wall_black_shabby_121767_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/wall_black_shabby_121767_360x640.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"sky scrapers",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/skyscrapers_road_marking_121776_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/skyscrapers_road_marking_121776_360x640.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"Man and space mirror",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/man_mirror_space_121777_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/man_mirror_space_121777_360x640.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"citrud fruit",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/fruit_citrus_pineapple_121783_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/fruit_citrus_pineapple_121783_360x640.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"bonfire, camping",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/bonfire_fire_camping_121785_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/bonfire_fire_camping_121785_360x640.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"red smoke",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/smoke_red_branches_121787_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/smoke_red_branches_121787_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"Man and riverside",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/man_silhouette_river_121788_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/man_silhouette_river_121788_360x640.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"wall, brick",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/wall_brick_peeling_121791_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/wall_brick_peeling_121791_360x640.jpg",
+            "collections":"texture",
+            "downloadable":true
+        },
+        {
+            "name":"Horizon sunset",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/horizon_sunset_river_121800_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/horizon_sunset_river_121800_360x640.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Beach View",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/beach_palms_summer_121803_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/beach_palms_summer_121803_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
 
         {
             "name":"Landscapes #4",
