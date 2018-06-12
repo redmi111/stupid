@@ -41,6 +41,127 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
+		
+        {
+            "name":"cute tiger",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/big-tiger-1440x2560-fairy-woman-lantern-4k-8777.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/big-tiger-360x640-fairy-woman-lantern-4k-8777.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"cute baby art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/bedtime-stories-1440x2560-fairy-moon-animals-toys-cartoon-digital-art-11161.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/bedtime-stories-360x640-fairy-moon-animals-toys-cartoon-digital-art-11161.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Infinite warfare",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/infinite-warfare-1440x2560-call-of-duty-2016-games-4k-40.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/infinite-warfare-360x640-call-of-duty-2016-games-4k-40.jpg",
+            "collections":"games",
+            "downloadable":true
+        },
+        {
+            "name":"lily flower 2",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/water-lily-1440x2560-4k-4440.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/water-lily-360x640-4k-4440.jpg",
+            "collections":"",
+            "downloadable":true
+        },
+        {
+            "name":"lily flower",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/water-lily-1440x2560-pink-fragrant-5k-510.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/water-lily-360x640-pink-fragrant-5k-510.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"minimal headphone",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/headphones-1440x2560-pink-teal-5k-13458.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/headphones-360x640-pink-teal-5k-13458.jpg",
+            "collections":"tech",
+            "downloadable":true
+        },
+        {
+            "name":"Horse art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/horse-1440x2560-moon-silhouette-blue-dark-hd-4k-13491.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/horse-360x640-moon-silhouette-blue-dark-hd-4k-13491.png",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Tiger Art",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/tiger-1440x2560-artwork-roaring-244.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/tiger-360x640-artwork-roaring-244.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"Venom Artwork",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/venom-1440x2560-artwork-minimal-dark-background-black-hd-14083.jpghttps://wallpapersite.com/images/wallpapers/venom-1440x2560-artwork-minimal-dark-background-black-hd-14083.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/venom-360x640-artwork-minimal-dark-background-black-hd-14083.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"dark knight rises",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/the-dark-knight-rises-1440x2560-batman-189.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/the-dark-knight-rises-360x640-batman-189.jpg",
+            "collections":"super heros",
+            "downloadable":true
+        },
+        {
+            "name":"batman artwork",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/batman-1440x2560-minimal-blue-background-hd-4k-14227.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/batman-360x640-minimal-blue-background-hd-4k-14227.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"black panther",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/black-panther-1440x2560-purple-dark-background-minimal-neon-hd-5k-14201.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/black-panther-360x640-purple-dark-background-minimal-neon-hd-5k-14201.png",
+            "collections":"super heros,artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Mount elbrus",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/mount-elbrus-1440x2560-highest-mountain-russia-4k-3828.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/mount-elbrus-360x640-highest-mountain-russia-4k-3828.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"world cup",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/2018-fifa-world-cup-1440x2560-russia-trophy-red-minimal-fifa-world-14204.jpg",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/2018-fifa-world-cup-360x640-russia-trophy-red-minimal-fifa-world-14204.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Material Dark background",
+            "author":"Nithis",
+            "url":"https://wallpapersite.com/images/wallpapers/material-1440x2560-dark-background-yellow-minimal-geometric-hd-4k-14290.png",
+            "thumbnail":"https://wallpapersite.com/images/wallpapers/material-360x640-dark-background-yellow-minimal-geometric-hd-4k-14290.png",
+            "collections":"artwork",
+            "downloadable":true
+        },
 		       
         {
             "name":"ford mustang",
