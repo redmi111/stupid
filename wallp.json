@@ -41,7 +41,127 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
-		
+	
+        {
+            "name":"man mask",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/mask_man_gesture_121644_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/mask_man_gesture_121644_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"rose bouquet",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/roses_bouquet_pink_121650_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/roses_bouquet_pink_121650_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"hydrangea flower",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/hydrangea_closeup_petals_121663_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/hydrangea_closeup_petals_121663_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"chinease lanterns",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/stairs_chinese_lanterns_climb_121666_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/stairs_chinese_lanterns_climb_121666_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"man relaxing",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/man_starry_sky_hill_121669_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/man_starry_sky_hill_121669_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"infinity light art",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/infinity_light_art_light_121675_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/infinity_light_art_light_121675_360x640.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"night fog",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/night_fog_moon_121687_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/night_fog_moon_121687_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"",
+            "author":"Nithis",
+            "url":"_1440x2560.jpg",
+            "thumbnail":"_360x640.jpg",
+            "collections":"",
+            "downloadable":true
+        },
+        {
+            "name":"green leaves",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/leaves_green_closeup_121695_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/leaves_green_closeup_121695_360x640.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"cat yawining",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/cat_grin_yawn_121696_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/cat_grin_yawn_121696_360x640.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"honda s2000",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/honda_s2000_yellow_front_view_121713_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/honda_s2000_yellow_front_view_121713_360x640.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"cat inside backpack",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/cat_backpack_girl_121759_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/cat_backpack_girl_121759_360x640.jpg",
+            "collections":"animals,people",
+            "downloadable":true
+        },
+        {
+            "name":"astronaut art",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/surrealism_astronaut_art_121819_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/surrealism_astronaut_art_121819_360x640.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"Man night",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/man_silhouette_field_121888_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/man_silhouette_field_121888_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"trees, road",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/road_trees_winding_121847_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/road_trees_winding_121847_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },	
         {
             "name":"starry sky and hands",
             "author":"Nithis",
