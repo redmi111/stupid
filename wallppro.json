@@ -43,6 +43,126 @@
 		},
 	
         {
+            "name":"surfer",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/surfer_surfing_shore_121476_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/surfer_surfing_shore_121476_360x640.jpg",
+            "collections":"people,featured",
+            "downloadable":true
+        },
+        {
+            "name":"nissan gtr",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/nissan_gtr_supercar_121502_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/nissan_gtr_supercar_121502_360x640.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"hydrangea #3",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/hydrangea_bush_petals_121512_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/hydrangea_bush_petals_121512_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"minimal car parking",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/parking_auto_minimalism_121523_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/parking_auto_minimalism_121523_360x640.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"yellow rose",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/hand_rose_water_121540_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/hand_rose_water_121540_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"blue bmw",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/bmw_blue_auto_121557_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/bmw_blue_auto_121557_360x640.jpg",
+            "collections":"cars",
+            "downloadable":true
+        },
+        {
+            "name":"cute lion",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/lioness_lion_muzzle_121562_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/lioness_lion_muzzle_121562_360x640.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"watercolor",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/watercolor_liquid_clots_121567_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/watercolor_liquid_clots_121567_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"river horizon",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/river_trees_horizon_121576_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/river_trees_horizon_121576_360x640.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"clean road marking",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/road_marking_auto_121579_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/road_marking_auto_121579_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"glass drops",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/drops_glare_glass_121584_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/drops_glare_glass_121584_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"lamp #3",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/lamp_electricity_light_121592_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/lamp_electricity_light_121592_360x640.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"Man gasmask",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/man_gas_mask_sunset_121608_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/man_gas_mask_sunset_121608_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"road traffic",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/traffic_road_auto_121616_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/traffic_road_auto_121616_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"decoration",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/christmas_decorations_new_year_christmas_121631_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/christmas_decorations_new_year_christmas_121631_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
             "name":"man mask",
             "author":"Nithis",
             "url":"https://wallpaperscraft.com/image/mask_man_gesture_121644_1440x2560.jpg",
