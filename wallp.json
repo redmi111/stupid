@@ -41,7 +41,126 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
-	
+	{
+            "name":"cat and butterfly",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/cat_butterfly_tenderness_121285_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/cat_butterfly_tenderness_121285_360x640.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"girl and umbrella",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/umbrella_girl_road_121299_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/umbrella_girl_road_121299_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"face paint",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/face_paint_multicolored_121307_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/face_paint_multicolored_121307_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"winter road",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/road_winter_city_121316_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/road_winter_city_121316_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"motorcyclist #2",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/motorcyclist_motorcycle_helmet_121317_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/motorcyclist_motorcycle_helmet_121317_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"skyline sunrise",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/sea_skyline_sunrise_121326_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/sea_skyline_sunrise_121326_360x640.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"yoga signboard",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/yoga_signboard_garden_121331_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/yoga_signboard_garden_121331_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"dog sitting",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/dog_mountains_sitting_121350_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/dog_mountains_sitting_121350_360x640.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"alps mountain lake",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/alps_mountains_lake_121357_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/alps_mountains_lake_121357_360x640.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"man sunset horizon",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/man_sunset_horizon_121363_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/man_sunset_horizon_121363_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"green hydrangea",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/hydrangea_green_flower_121365_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/hydrangea_green_flower_121365_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"motel inscription",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/inscription_illumination_signboard_121367_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/inscription_illumination_signboard_121367_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"bull and mountains",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/meadow_bull_mountains_121382_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/meadow_bull_mountains_121382_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"birds couple",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/parrots_birds_couple_121387_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/parrots_birds_couple_121387_360x640.jpg",
+            "collections":"birds",
+            "downloadable":true
+        },
+        {
+            "name":"wild rose #3",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/wild_rose_bush_leaves_121400_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/wild_rose_bush_leaves_121400_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
         {
             "name":"ducati bike",
             "author":"Nithis",
