@@ -41,6 +41,126 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
+{
+            "name":"avocado",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/avocado_art_fruit_121043_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/avocado_art_fruit_121043_360x640.jpg",
+            "collections":"fruits",
+            "downloadable":true
+        },
+        {
+            "name":"bulldog",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/french_bulldog_dog_window_121094_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/french_bulldog_dog_window_121094_360x640.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"man running",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/silhouette_road_running_121163_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/silhouette_road_running_121163_360x640.jpg",
+            "collections":"people,featured",
+            "downloadable":true
+        },
+        {
+            "name":"black mask",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/mask_hands_blur_121194_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/mask_hands_blur_121194_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"graffiti art",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/graffiti_origami_street_art_121202_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/graffiti_origami_street_art_121202_360x640.jpg",
+            "collections":"artwork",
+            "downloadable":true
+        },
+        {
+            "name":"earth moon transist",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/earth_moon_transit_121207_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/earth_moon_transit_121207_360x640.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"lake mountain",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/lake_mountains_tree_121227_1440x2560.jpg",
+            "thumbnail":"https://images.wallpaperscraft.com/image/lake_mountains_tree_121227_360x640.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"camellia wall",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/camellia_wall_bush_121229_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/camellia_wall_bush_121229_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"lake duck",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/duck_lake_silhouette_121241_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/duck_lake_silhouette_121241_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"dahlias flowers",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/dahlias_flowerbeds_buds_121244_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/dahlias_flowerbeds_buds_121244_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"Night light green",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/night_silhouette_starry_sky_121245_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/night_silhouette_starry_sky_121245_360x640.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"Biker #3",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/motorcyclist_helmet_jacket_121264_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/motorcyclist_helmet_jacket_121264_360x640.jpg",
+            "collections":"people",
+            "downloadable":true
+        },
+        {
+            "name":"flamingo birds",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/flamingo_birds_pond_121270_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/flamingo_birds_pond_121270_360x640.jpg",
+            "collections":"birds",
+            "downloadable":true
+        },
+        {
+            "name":"soccer ball",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/soccer_ball_football_lawn_121273_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/soccer_ball_football_lawn_121273_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"ceratostylis",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/ceratostylis_flower_closeup_121278_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/ceratostylis_flower_closeup_121278_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
 	{
             "name":"cat and butterfly",
             "author":"Nithis",
