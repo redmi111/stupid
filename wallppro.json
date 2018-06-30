@@ -41,6 +41,128 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
+		       
+
+        {
+            "name":"cyclist minimal",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/cyclist_minimalism_bridge_120974_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/cyclist_minimalism_bridge_120974_360x640.jpg",
+            "collections":"nature",
+            "downloadable":true
+        },
+        {
+            "name":"cidney city",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/building_city_road_120998_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/building_city_road_120998_360x640.jpg",
+            "collections":"city",
+            "downloadable":true
+        },
+        {
+            "name":"moon planet",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/moon_planet_stars_121000_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/moon_planet_stars_121000_360x640.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
+        {
+            "name":"low light landscape",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/mountains_tree_starry_sky_121004_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/mountains_tree_starry_sky_121004_360x640.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"dog,autumn",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/rottweiler_dog_autumn_121005_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/rottweiler_dog_autumn_121005_360x640.jpg",
+            "collections":"animals",
+            "downloadable":true
+        },
+        {
+            "name":"red neon light",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/inscription_neon_open_121009_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/inscription_neon_open_121009_360x640.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"coast",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/sea_coast_overcast_121013_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/sea_coast_overcast_121013_360x640.jpg",
+            "collections":"nature,featured",
+            "downloadable":true
+        },
+        {
+            "name":"lake house",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/house_lake_mountains_121017_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/house_lake_mountains_121017_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"sea and skyline",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/pier_sea_skyline_121030_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/pier_sea_skyline_121030_360x640.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"yellow flower petals",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/flower_yellow_petals_121039_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/flower_yellow_petals_121039_360x640.jpg",
+            "collections":"flowers",
+            "downloadable":true
+        },
+        {
+            "name":"green neon light",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/inscription_neon_green_121074_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/inscription_neon_green_121074_360x640.jpg",
+            "collections":"lights",
+            "downloadable":true
+        },
+        {
+            "name":"danbo, cardboard",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/danbo_cardboard_robot_photographer_121111_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/danbo_cardboard_robot_photographer_121111_360x640.jpg",
+            "collections":"others",
+            "downloadable":true
+        },
+        {
+            "name":"italy mountains",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/italy_mountains_cliffs_121113_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/italy_mountains_cliffs_121113_360x640.jpg",
+            "collections":"landscapes,featured",
+            "downloadable":true
+        },
+        {
+            "name":"railway bridge",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/starry_sky_bridge_railway_121117_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/starry_sky_bridge_railway_121117_360x640.jpg",
+            "collections":"landscapes",
+            "downloadable":true
+        },
+        {
+            "name":"planet art",
+            "author":"Nithis",
+            "url":"https://wallpaperscraft.com/image/planet_universe_earth_121119_1440x2560.jpg",
+            "thumbnail":"https://wallpaperscraft.com/image/planet_universe_earth_121119_360x640.jpg",
+            "collections":"space",
+            "downloadable":true
+        },
 {
             "name":"avocado",
             "author":"Nithis",
