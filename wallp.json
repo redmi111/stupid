@@ -25,7 +25,8 @@
 			"preview_thumbnail_url": "http://wallpaperscraft.com/image/road_trees_top_view_119030_2560x1440.jpg"
 		}
 	],
-	"Wallpapers": [{
+	"Wallpapers": [
+		{
 			"name": "",
 			"author": "Nithis",
 			"url": "_1440x2560.jpg",
@@ -41,7 +42,149 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
-		       
+		{
+			"name": "evening sky",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/night_sky_stars_clouds_116519_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/night_sky_stars_clouds_116519_360x640.jpg",
+			"collections": "nature",
+			"downloadable": true
+		},
+		
+		{
+			"name": "dog nose",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/retriever_dog_nose_muzzle_116541_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/retriever_dog_nose_muzzle_116541_360x640.jpg",
+			"collections": "animals",
+			"downloadable": true
+		},
+		
+		{
+			"name": "fireworks over lens",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/salute_fireworks_lens_holiday_116575_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/salute_fireworks_lens_holiday_116575_360x640.jpg",
+			"collections": "others",
+			"downloadable": true
+		},
+		
+		{
+			"name": "blue flowers",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/poppy_blue_petals_drops_116576_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/poppy_blue_petals_drops_116576_360x640.jpg",
+			"collections": "flowers",
+			"downloadable": true
+		},
+		
+		{
+			"name": "ocean, surf",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/sea_ocean_surf_stones_foam_116558_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/sea_ocean_surf_stones_foam_116558_360x640.jpg",
+			"collections": "nature",
+			"downloadable": true
+		},
+		
+		{
+			"name": "starry sky",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/starry_sky_stars_trees_night_116591_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/starry_sky_stars_trees_night_116591_360x640.jpg",
+			"collections": "nature,featured",
+			"downloadable": true
+		},
+		
+		{
+			"name": "inscription  #7",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/inscription_text_letters_neon_117124_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/inscription_text_letters_neon_117124_360x640.jpg",
+			"collections": "others",
+			"downloadable": true
+		},
+		
+		{
+			"name": "green sky",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/night_green_starry_sky_river_117961_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/night_green_starry_sky_river_117961_360x640.jpg",
+			"collections": "nature",
+			"downloadable": true
+		},
+		
+		{
+			"name": "photographer",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/silhouette_photographer_person_123085_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/silhouette_photographer_person_123085_360x640.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		
+		{
+			"name": "bee yellow flower",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/bee_flower_pollination_123110_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/bee_flower_pollination_123110_360x640.jpg",
+			"collections": "flowers",
+			"downloadable": true
+		},
+		
+		{
+			"name": "labrador dog",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/labrador_dog_grass_123135_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/labrador_dog_grass_123135_360x640.jpg",
+			"collections": "animals",
+			"downloadable": true
+		},
+		
+		{
+			"name": "berries",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/saxophone_musical_instrument_keys_120481_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/saxophone_musical_instrument_keys_120481_360x640.jpg",
+			"collections": "fruits",
+			"downloadable": true
+		},
+		
+		{
+			"name": "Audi car",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/headlight_auto_blur_120504_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/headlight_auto_blur_120504_360x640.jpg",
+			"collections": "cars",
+			"downloadable": true
+		},
+		
+		{
+			"name": "space wallpaper",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/space_starry_sky_stars_120518_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/space_starry_sky_stars_120518_360x640.jpg",
+			"collections": "space",
+			"downloadable": true
+		},
+		
+		{
+			"name": "cave",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/cave_tide_stones_120566_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/cave_tide_stones_120566_360x640.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		
+		{
+			"name": "marigold yellow flower",
+			"author": "Nithis",
+			"url": "https://wallpaperscraft.com/image/marigold_drops_yellow_123958_1440x2560.jpg",
+			"thumbnail": "https://wallpaperscraft.com/image/marigold_drops_yellow_123958_360x640.jpg",
+			"collections": "flowers",
+			"downloadable": true
+		},
 {
 			"name": "purple flower",
 			"author": "Nithis",
