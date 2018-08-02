@@ -42,6 +42,150 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
+		{
+			"name": "Dark City",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/buildings_city_bw_118586_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/buildings_city_bw_118586_360x640.jpg",
+			"collections": "city",
+			"downloadable": true
+		},
+		{
+			"name": "Biker",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/biker_silhouette_sky_118585_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/biker_silhouette_sky_118585_360x640.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		{
+			"name": "Sea And Rocks",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/rocks_sea_shore_sky_118583_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/rocks_sea_shore_sky_118583_360x640.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		{
+			"name": "Sunset And Road",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/road_sunset_horizon_marking_118582_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/road_sunset_horizon_marking_118582_360x640.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		{
+			"name": "Bridge Lighting",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/bridge_decoration_lighting_118592_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/bridge_decoration_lighting_118592_360x640.jpg",
+			"collections": "featured,city",
+			"downloadable": true
+		},
+		{
+			"name": "Rosh Bush",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/flower_bush_red_leaves_118595_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/flower_bush_red_leaves_118595_360x640.jpg",
+			"collections": "flowers",
+			"downloadable": true
+		},
+		{
+			"name": "Red Panda",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/panda_red_panda_snow_walk_118598_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/panda_red_panda_snow_walk_118598_360x640.jpg",
+			"collections": "animals",
+			"downloadable": true
+		},
+		{
+			"name": "Lying Girl",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/girl_balcony_lying_rest_118601_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/girl_balcony_lying_rest_118601_360x640.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		{
+			"name": "Sparks",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/bengal_fire_sparks_glitter_dark_background_118606_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/bengal_fire_sparks_glitter_dark_background_118606_360x640.jpg",
+			"collections": "others",
+			"downloadable": true
+		},
+		{
+			"name": "Front View Car",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/car_front_view_street_stylish_118608_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/car_front_view_street_stylish_118608_360x640.jpg",
+			"collections": "cars",
+			"downloadable": true
+		},
+		{
+			"name": "Lion",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/lion_muzzle_look_up_118612_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/lion_muzzle_look_up_118612_360x640.jpg",
+			"collections": "animals",
+			"downloadable": true
+		},
+		{
+			"name": "Winter Trees",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/snow_winter_trees_road_118619_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/snow_winter_trees_road_118619_360x640.jpg",
+			"collections": "nature,featured",
+			"downloadable": true
+		},
+		{
+			"name": "Dog on Winter",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/dog_winter_snow_playful_118635_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/dog_winter_snow_playful_118635_360x640.jpg",
+			"collections": "animals",
+			"downloadable": true
+		},
+		{
+			"name": "Evening City Street",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/city_street_evening_architecture_118623_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/city_street_evening_architecture_118623_360x640.jpg",
+			"collections": "city",
+			"downloadable": true
+		},
+		{
+			"name": "Escalator",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/escalator_ladder_dark_118625_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/escalator_ladder_dark_118625_360x640.jpg",
+			"collections": "others",
+			"downloadable": true
+		},
+		{
+			"name": "Snow Mountains",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/mountains_trees_snow_winter_118628_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/mountains_trees_snow_winter_118628_360x640.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		{
+			"name": "Trees And Road",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/road_auto_trees_turn_118701_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/road_auto_trees_turn_118701_360x640.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		{
+			"name": "Switzerland",
+			"author": "Nithis",
+			"url": "http://wallpaperscraft.com/image/sigriswil_switzerland_mountains_road_sea_118737_1440x2560.jpg",
+			"thumbnail": "http://wallpaperscraft.com/image/sigriswil_switzerland_mountains_road_sea_118737_360x640.jpg",
+			"collections": "nature,featured",
+			"downloadable": true
+		},
 {
 			"name": "waterfall",
 			"author": "Nithis",
@@ -6540,150 +6684,7 @@
 			"collections": "people,landscapes,featured",
 			"downloadable": true
 		},
-		{
-			"name": "Dark City",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/buildings_city_bw_118586_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/buildings_city_bw_118586_360x640.jpg",
-			"collections": "city",
-			"downloadable": true
-		},
-		{
-			"name": "Biker",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/biker_silhouette_sky_118585_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/biker_silhouette_sky_118585_360x640.jpg",
-			"collections": "people",
-			"downloadable": true
-		},
-		{
-			"name": "Sea And Rocks",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/rocks_sea_shore_sky_118583_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/rocks_sea_shore_sky_118583_360x640.jpg",
-			"collections": "landscapes",
-			"downloadable": true
-		},
-		{
-			"name": "Sunset And Road",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/road_sunset_horizon_marking_118582_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/road_sunset_horizon_marking_118582_360x640.jpg",
-			"collections": "landscapes",
-			"downloadable": true
-		},
-		{
-			"name": "Bridge Lighting",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/bridge_decoration_lighting_118592_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/bridge_decoration_lighting_118592_360x640.jpg",
-			"collections": "featured,city",
-			"downloadable": true
-		},
-		{
-			"name": "Rosh Bush",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/flower_bush_red_leaves_118595_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/flower_bush_red_leaves_118595_360x640.jpg",
-			"collections": "flowers",
-			"downloadable": true
-		},
-		{
-			"name": "Red Panda",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/panda_red_panda_snow_walk_118598_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/panda_red_panda_snow_walk_118598_360x640.jpg",
-			"collections": "animals",
-			"downloadable": true
-		},
-		{
-			"name": "Lying Girl",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/girl_balcony_lying_rest_118601_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/girl_balcony_lying_rest_118601_360x640.jpg",
-			"collections": "people",
-			"downloadable": true
-		},
-		{
-			"name": "Sparks",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/bengal_fire_sparks_glitter_dark_background_118606_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/bengal_fire_sparks_glitter_dark_background_118606_360x640.jpg",
-			"collections": "others",
-			"downloadable": true
-		},
-		{
-			"name": "Front View Car",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/car_front_view_street_stylish_118608_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/car_front_view_street_stylish_118608_360x640.jpg",
-			"collections": "cars",
-			"downloadable": true
-		},
-		{
-			"name": "Lion",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/lion_muzzle_look_up_118612_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/lion_muzzle_look_up_118612_360x640.jpg",
-			"collections": "animals",
-			"downloadable": true
-		},
-		{
-			"name": "Winter Trees",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/snow_winter_trees_road_118619_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/snow_winter_trees_road_118619_360x640.jpg",
-			"collections": "nature,featured",
-			"downloadable": true
-		},
-		{
-			"name": "Dog on Winter",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/dog_winter_snow_playful_118635_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/dog_winter_snow_playful_118635_360x640.jpg",
-			"collections": "animals",
-			"downloadable": true
-		},
-		{
-			"name": "Evening City Street",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/city_street_evening_architecture_118623_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/city_street_evening_architecture_118623_360x640.jpg",
-			"collections": "city",
-			"downloadable": true
-		},
-		{
-			"name": "Escalator",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/escalator_ladder_dark_118625_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/escalator_ladder_dark_118625_360x640.jpg",
-			"collections": "others",
-			"downloadable": true
-		},
-		{
-			"name": "Snow Mountains",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/mountains_trees_snow_winter_118628_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/mountains_trees_snow_winter_118628_360x640.jpg",
-			"collections": "landscapes",
-			"downloadable": true
-		},
-		{
-			"name": "Trees And Road",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/road_auto_trees_turn_118701_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/road_auto_trees_turn_118701_360x640.jpg",
-			"collections": "landscapes",
-			"downloadable": true
-		},
-		{
-			"name": "Switzerland",
-			"author": "Nithis",
-			"url": "http://wallpaperscraft.com/image/sigriswil_switzerland_mountains_road_sea_118737_1440x2560.jpg",
-			"thumbnail": "http://wallpaperscraft.com/image/sigriswil_switzerland_mountains_road_sea_118737_360x640.jpg",
-			"collections": "nature,featured",
-			"downloadable": true
-		},
+		
 		{
 			"name": "Girl",
 			"author": "Nithis",
