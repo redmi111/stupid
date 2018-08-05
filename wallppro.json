@@ -27,13 +27,95 @@
 	],
 	"Wallpapers": [
 		{
-			"name": "",
-			"author": "Nithis",
-			"url": "_1440x2560.jpg",
-			"thumbnail": "_360x640.jpg",
-			"collections": "",
+			"name": "man and bird sad",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/alone-1440x2560-silhouette-sunset-mood-dark-birds-hd-4k-14164.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/alone-320x480-silhouette-sunset-mood-dark-birds-hd-4k-14164.jpg",
+			"collections": "peoples",
 			"downloadable": true
 		},
+		{
+			"name": "yosemite #2",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/yosemite-valley-1440x2560-yosemite-national-park-winter-snow-4k-14291.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/yosemite-valley-320x480-yosemite-national-park-winter-snow-4k-14291.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+{
+			"name": "pc mamifactureing #2",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/razer-1440x2560-logo-dark-background-3d-green-hd-4k-14279.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/razer-320x480-logo-dark-background-3d-green-hd-4k-14279.jpg",
+			"collections": "games",
+			"downloadable": true
+		},
+{
+			"name": "mountain white",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/lake-1440x2560-mountains-reflections-hd-4k-14537.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/lake-320x480-mountains-reflections-hd-4k-14537.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+{
+			"name": "aquaman",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/aquaman-1440x2560-jason-momoa-hd-4k-14475.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/aquaman-320x480-jason-momoa-hd-4k-14475.jpg",
+			"collections": "super heros",
+			"downloadable": true
+		},
+{
+			"name": "audi #5",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/audi-r8-1440x2560-luxury-cars-hd-5k-14477.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/audi-r8-320x480-luxury-cars-hd-5k-14477.jpg",
+			"collections": "cars",
+			"downloadable": true
+		},
+{
+			"name": "spaceship exploration #2",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/astronaut-1440x2560-spaceship-exploration-journey-universe-4k-14459.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/astronaut-320x480-spaceship-exploration-journey-universe-4k-14459.jpg",
+			"collections": "space",
+			"downloadable": true
+		},
+{
+			"name": "black panther #2",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/black-panther-1440x2560-artwork-4k-8k-8692.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/black-panther-320x480-artwork-4k-8k-8692.jpg",
+			"collections": "super heros",
+			"downloadable": true
+		},
+{
+			"name": "blackpanther",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/black-panther-1440x2560-lexus-lc-500-artwork-neon-art-hd-14608.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/black-panther-320x480-lexus-lc-500-artwork-neon-art-hd-14608.jpg",
+			"collections": "artwork",
+			"downloadable": true
+		},
+{
+			"name": "spider man upgrade",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/spider-man-1440x2560-iron-spider-armour-marvel-comics-superhero-hd-4k-14726.jpg",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/spider-man-320x480-iron-spider-armour-marvel-comics-superhero-hd-4k-14726.jpg",
+			"collections": "super heros",
+			"downloadable": true
+		},
+{
+			"name": "iron man tony",
+			"author": "Prasanth",
+			"url": "https://wallpapersite.com/images/wallpapers/iron-man-1440x2560-tony-stark-minimal-hd-4k-14696.png",
+			"thumbnail": "https://wallpapersite.com/images/wallpapers/iron-man-320x480-tony-stark-minimal-hd-4k-14696.png",
+			"collections": "super heros",
+			"downloadable": true
+		},
+		
+		
 		{
 			"name": "",
 			"author": "Nithis",
