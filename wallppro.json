@@ -26,6 +26,22 @@
 		}
 	],
 	"Wallpapers": [
+			{
+			"name": "",
+			"author": "Nithis",
+			"url": "",
+			"thumbnail": "",
+			"collections": "",
+			"downloadable": true
+		},
+			{
+			"name": "",
+			"author": "Nithis",
+			"url": "",
+			"thumbnail": "",
+			"collections": "Android Stock Walls",
+			"downloadable": true
+		},
 		{
 			"name": "man and bird sad",
 			"author": "Prasanth",
@@ -105,7 +121,7 @@
 			"thumbnail": "https://wallpapersite.com/images/wallpapers/johnny-depp-320x480-captain-jack-sparrow-pirates-of-the-caribbean-7519.jpg",
 			"collections": "super heros",
 			"downloadable": true
-
+},
 		
 {
 			"name": "audi #5",
@@ -153,16 +169,6 @@
 			"url": "https://wallpapersite.com/images/wallpapers/iron-man-1440x2560-tony-stark-minimal-hd-4k-14696.png",
 			"thumbnail": "https://wallpapersite.com/images/wallpapers/iron-man-320x480-tony-stark-minimal-hd-4k-14696.png",
 			"collections": "super heros",
-			"downloadable": true
-		},
-		
-		
-		{
-			"name": "",
-			"author": "Nithis",
-			"url": "",
-			"thumbnail": "",
-			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
 		{
