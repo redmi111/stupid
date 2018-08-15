@@ -43,7 +43,133 @@
 			"collections": "Android Stock Walls",
 			"downloadable": true
 		},
-		
+		{
+			"name": "girl #3",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/anita-austvika-775374-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/anita-austvika-775374-unsplash1.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		{
+			"name": "milk and flowers",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/anita-austvika-775382-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/anita-austvika-775382-unsplash.jpg",
+			"collections": "flowers",
+			"downloadable": true
+		},
+		{
+			"name": "starwberries nature",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/anita-austvika-775427-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/anita-austvika-775427-unsplash1.jpg",
+			"collections": "fruits",
+			"downloadable": true
+		},
+		{
+			"name": "undersea photography",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/david-henrichs-776355-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/david-henrichs-776355-unsplash1.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		{
+			"name": "meat bowl",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/eiliv-aceron-776219-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/eiliv-aceron-776219-unsplash1.jpg",
+			"collections": "food",
+			"downloadable": true
+		},
+		{
+			"name": "man skating",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/fernando-rodrigues-777001-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/fernando-rodrigues-777001-unsplash1.jpg",
+			"collections": "others",
+			"downloadable": true
+		},{
+			"name": "artificial tree",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/kent-lee-777264-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/kent-lee-777264-unsplash1.jpg",
+			"collections": "city",
+			"downloadable": true
+		},
+		{
+			"name": "pink rose",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/perchek-industrie-776765-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/perchek-industrie-776765-unsplash1.jpg",
+			"collections": "flowers",
+			"downloadable": true
+		},
+		{
+			"name": "top view apartments",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/puria-berenji-775515-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/puria-berenji-775515-unsplash1.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		{
+			"name": "Yellow wall",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/rigerta-demiri-777179-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/rigerta-demiri-777179-unsplash1.jpg",
+			"collections": "texture",
+			"downloadable": true
+		},
+		{
+			"name": "Giant wheel night",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/safal-karki-776552-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/safal-karki-776552-unsplash1.jpg",
+			"collections": "others",
+			"downloadable": true
+		},
+		{
+			"name": "coastal area",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/su-san-lee-776985-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/su-san-lee-776985-unsplash1.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		{
+			"name": "bus desert",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/tim-zankert-777433-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/tim-zankert-777433-unsplash1.jpg",
+			"collections": "landscapes",
+			"downloadable": true
+		},
+		{
+			"name": "sea food",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/ting-tian-776340-unsplash.jpg",
+			"thumbnail":"https://www.codingspirits.com/wp-content/uploads/2018/08/ting-tian-776340-unsplash1.jpg"
+			"collections": "food",
+			"downloadable": true
+		},
+		{
+			"name": "park #2",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/viktoriia-yatsentiuk-775631-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/viktoriia-yatsentiuk-775631-unsplash1.jpg",
+			"collections": "nature",
+			"downloadable": true
+		},
+		{
+			"name": "glass building",
+			"author": "Nithis",
+			"url": "https://www.codingspirits.com/wp-content/uploads/2018/08/zach-heiberg-775733-unsplash.jpg",
+			"thumbnail": "https://www.codingspirits.com/wp-content/uploads/2018/08/zach-heiberg-775733-unsplash1.jpg",
+			"collections": "city",
+			"downloadable": true
+		},
 		{
 			"name": "daffodils #3",
 			"author": "Prasanth",
