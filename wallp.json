@@ -44,11 +44,51 @@
 			"downloadable": true
 		},
 		{
-			"name": "",
+			"name": "guy with hoodie",
 			"author": "Nithis",
-			"url": "",
-			"thumbnail": "",
-			"collections": "",
+			"url": "https://i.imgur.com/NHheyJh.jpg",
+			"thumbnail": "https://i.imgur.com/vzjPrIS.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		{
+			"name": "bricks #3",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/19hjHpo.jpg",
+			"thumbnail": "https://i.imgur.com/mhTTGT8.jpg",
+			"collections": "texture",
+			"downloadable": true
+		},
+		{
+			"name": "Man inside cave",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/GTEe4i8.jpg",
+			"thumbnail": "https://i.imgur.com/ZfC4EFY.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		{
+			"name": "dry leaf",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/edW0snm.jpg",
+			"thumbnail": "https://i.imgur.com/X117qpn.jpg",
+			"collections": "nature",
+			"downloadable": true
+		},
+		{
+			"name": "neon inscription",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/Fvp4QNa.jpg",
+			"thumbnail": "https://i.imgur.com/WCgm8QT.jpg",
+			"collections": "others",
+			"downloadable": true
+		},
+		{
+			"name": "pink blossoms",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/cKk1sIi.jpg",
+			"thumbnail": "https://i.imgur.com/KPSSM4h.jpg",
+			"collections": "flowers",
 			"downloadable": true
 		},
 		
