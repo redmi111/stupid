@@ -44,25 +44,58 @@
 			"downloadable": true
 		},
 		{
-			"name": "",
+			"name": "guy with hoodie",
 			"author": "Nithis",
-			"url": "",
-			"thumbnail": "",
-			"collections": "",
+			"url": "https://i.imgur.com/NHheyJh.jpg",
+			"thumbnail": "https://i.imgur.com/vzjPrIS.jpg",
+			"collections": "people",
 			"downloadable": true
 		},
 		{
-			"name": "red flowers",
+			"name": "bricks #3",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/gtMYcRA.jpg",
-			"thumbnail": "https://i.imgur.com/bngcHOB.jpg",
+			"url": "https://i.imgur.com/19hjHpo.jpg",
+			"thumbnail": "https://i.imgur.com/mhTTGT8.jpg",
+			"collections": "texture",
+			"downloadable": true
+		},
+		{
+			"name": "Man inside cave",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/GTEe4i8.jpg",
+			"thumbnail": "https://i.imgur.com/ZfC4EFY.jpg",
+			"collections": "people",
+			"downloadable": true
+		},
+		{
+			"name": "dry leaf",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/edW0snm.jpg",
+			"thumbnail": "https://i.imgur.com/X117qpn.jpg",
+			"collections": "nature",
+			"downloadable": true
+		},
+		{
+			"name": "neon inscription",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/Fvp4QNa.jpg",
+			"thumbnail": "https://i.imgur.com/WCgm8QT.jpg",
+			"collections": "others",
+			"downloadable": true
+		},
+		{
+			"name": "pink blossoms",
+			"author": "Nithis",
+			"url": "https://i.imgur.com/cKk1sIi.jpg",
+			"thumbnail": "https://i.imgur.com/KPSSM4h.jpg",
 			"collections": "flowers",
 			"downloadable": true
 		},
+		
 		{
 			"name": "xrTgfr",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/MUjdvIS.jpg",
+			"url": "https://i.imgur.com/I6itnNz.jpg",
 			"thumbnail": "https://i.imgur.com/MUjdvIS.jpg",
 			"collections": "landscapes",
 			"downloadable": true
@@ -70,7 +103,7 @@
 		{
 			"name": "orange splash",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/NFAhzjs.jpg",
+			"url": "https://i.imgur.com/U83yxQL.jpg",
 			"thumbnail": "https://i.imgur.com/tNix7Z1.jpg",
 			"collections": "others",
 			"downloadable": true
@@ -84,21 +117,14 @@
 		},{
 			"name": "nature view #5",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/aYOujBl.jpg",
+			"url": "https://i.imgur.com/dRCoehV.jpg",
 			"thumbnail": "https://i.imgur.com/rpozqsh.jpg",
 			"collections": "nature",
 			"downloadable": true
 		},{
-			"name": "women bagpack",
-			"author": "Nithis",
-			"url": "https://i.imgur.com/ic6AqtT.jpg",
-			"thumbnail": "https://i.imgur.com/CY7HxVF.jpg",
-			"collections": "people",
-			"downloadable": true
-		},{
 			"name": "Boat sunset",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/kAZGdSA.jpg",
+			"url": "https://i.imgur.com/pk38kDa.jpg",
 			"thumbnail": "https://i.imgur.com/CWWo9xg.jpg",
 			"collections": "nature",
 			"downloadable": true
@@ -106,7 +132,7 @@
 		{
 			"name": "Sun glass beach",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/Jxs7AwC.jpg",
+			"url": "https://i.imgur.com/c0DgO9a.jpg",
 			"thumbnail": "https://i.imgur.com/dmLRx7G.jpg",
 			"collections": "others",
 			"downloadable": true
@@ -136,7 +162,7 @@
 		{
 			"name": "Tiger #8",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/h6Hw4at.jpg",
+			"url": "https://i.imgur.com/16QqH6W.jpg",
 			"thumbnail": "https://i.imgur.com/DB8iAl2.jpg",
 			"collections": "animals",
 			"downloadable": true
@@ -150,7 +176,7 @@
 		},{
 			"name": "sail boat #4",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/WHPCgwD.jpg",
+			"url": "https://i.imgur.com/rnmX4Rr.jpg",
 			"thumbnail": "https://i.imgur.com/BzGjh5D.jpg",
 			"collections": "others",
 			"downloadable": true
@@ -174,7 +200,7 @@
 		{
 			"name": "bonfire",
 			"author": "Nithis",
-			"url": "https://i.imgur.com/0sweBhM.jpg",
+			"url": "https://i.imgur.com/m7fSIbI.jpg",
 			"thumbnail": "https://i.imgur.com/lEx8aeW.jpg",
 			"collections": "others",
 			"downloadable": true
